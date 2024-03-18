@@ -1,0 +1,52 @@
+{
+  "accounts": [
+    {
+      "accountName": "preview-1",
+      "accountNumber": "preview-1",
+      "balance": { "amount": 100000, "currency": "GBP" },
+      "equity": { "amount": -999999, "currency": "GBP" },
+      "grossPnL": { "amount": -999999, "currency": "GBP" },
+      "dayPnL": { "amount": -999999, "currency": "GBP" },
+      "usedMargin": { "amount": -999999, "currency": "GBP" },
+      "usableMargin": { "amount": -999999, "currency": "GBP" },
+      "usableMarginPercent": 12,
+      "usableMaintenanceMarginPercent": 1,
+      "usedMaintenanceMargin": {
+        "amount": -99999,
+        "currency": "GBP"
+      },
+      "usableMaintenanceMargin": {
+        "amount": -999999,
+        "currency": "GBP"
+      },
+      "marginCall": "Y",
+      "currency": "GBP",
+      "isThreeTierMargin": false,
+      "currencyPrecision": 2
+    },
+    {
+      "accountName": "preview-2",
+      "accountNumber": "preview-2",
+      "balance": { "amount": 100000, "currency": "GBP" },
+      "equity": { "amount": -999999, "currency": "GBP" },
+      "grossPnL": { "amount": -999999, "currency": "GBP" },
+      "dayPnL": { "amount": -999999, "currency": "GBP" },
+      "usedMargin": { "amount": -999999, "currency": "GBP" },
+      "usableMargin": { "amount": -999999, "currency": "GBP" },
+      "usableMarginPercent": 12,
+      "usableMaintenanceMarginPercent": 1,
+      "usedMaintenanceMargin": {
+        "amount": -99999,
+        "currency": "GBP"
+      },
+      "usableMaintenanceMargin": {
+        "amount": -999999,
+        "currency": "GBP"
+      },
+      "marginCall": "Y",
+      "currency": "GBP",
+      "isThreeTierMargin": true,
+      "currencyPrecision": 2
+    }
+  ]
+}
