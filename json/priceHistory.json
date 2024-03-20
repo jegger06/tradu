@@ -1,0 +1,5604 @@
+{
+    "candles": [
+        {
+            "bidClose": 1.0871,
+            "bidHigh": 1.0872,
+            "bidLow": 1.086,
+            "bidOpen": 1.0864,
+            "date": "2022-04-20T18:32:25.000Z",
+            "volume": 15749
+        },
+        {
+            "bidClose": 1.0878,
+            "bidHigh": 1.088,
+            "bidLow": 1.0859,
+            "bidOpen": 1.0871,
+            "date": "2022-04-21T18:32:25.000Z",
+            "volume": 14150
+        },
+        {
+            "bidClose": 1.0871,
+            "bidHigh": 1.0878,
+            "bidLow": 1.0874,
+            "bidOpen": 1.0878,
+            "date": "2022-04-22T18:32:25.000Z",
+            "volume": 5440
+        },
+        {
+            "bidClose": 1.0865,
+            "bidHigh": 1.0883,
+            "bidLow": 1.0862,
+            "bidOpen": 1.0871,
+            "date": "2022-04-23T18:32:25.000Z",
+            "volume": 10646
+        },
+        {
+            "bidClose": 1.0859,
+            "bidHigh": 1.0865,
+            "bidLow": 1.0855,
+            "bidOpen": 1.0865,
+            "date": "2022-04-24T18:32:25.000Z",
+            "volume": 9314
+        },
+        {
+            "bidClose": 1.0856,
+            "bidHigh": 1.086,
+            "bidLow": 1.0853,
+            "bidOpen": 1.0859,
+            "date": "2022-04-25T18:32:25.000Z",
+            "volume": 3761
+        },
+        {
+            "bidClose": 1.0861,
+            "bidHigh": 1.0859,
+            "bidLow": 1.0852,
+            "bidOpen": 1.0856,
+            "date": "2022-04-26T18:32:25.000Z",
+            "volume": 1335
+        },
+        {
+            "bidClose": 1.0868,
+            "bidHigh": 1.0874,
+            "bidLow": 1.0853,
+            "bidOpen": 1.0861,
+            "date": "2022-04-27T18:32:25.000Z",
+            "volume": 1931
+        },
+        {
+            "bidClose": 1.0875,
+            "bidHigh": 1.0876,
+            "bidLow": 1.0864,
+            "bidOpen": 1.0868,
+            "date": "2022-04-28T18:32:25.000Z",
+            "volume": 15259
+        },
+        {
+            "bidClose": 1.0862,
+            "bidHigh": 1.088,
+            "bidLow": 1.0867,
+            "bidOpen": 1.0875,
+            "date": "2022-04-29T18:32:25.000Z",
+            "volume": 2750
+        },
+        {
+            "bidClose": 1.0871,
+            "bidHigh": 1.0865,
+            "bidLow": 1.0861,
+            "bidOpen": 1.0862,
+            "date": "2022-04-30T18:32:25.000Z",
+            "volume": 281
+        },
+        {
+            "bidClose": 1.088,
+            "bidHigh": 1.0879,
+            "bidLow": 1.0864,
+            "bidOpen": 1.0871,
+            "date": "2022-05-01T18:32:25.000Z",
+            "volume": 6673
+        },
+        {
+            "bidClose": 1.0881,
+            "bidHigh": 1.0882,
+            "bidLow": 1.0876,
+            "bidOpen": 1.088,
+            "date": "2022-05-02T18:32:25.000Z",
+            "volume": 5009
+        },
+        {
+            "bidClose": 1.0889,
+            "bidHigh": 1.0888,
+            "bidLow": 1.087,
+            "bidOpen": 1.0881,
+            "date": "2022-05-03T18:32:25.000Z",
+            "volume": 6866
+        },
+        {
+            "bidClose": 1.0891,
+            "bidHigh": 1.0892,
+            "bidLow": 1.0881,
+            "bidOpen": 1.0889,
+            "date": "2022-05-04T18:32:25.000Z",
+            "volume": 2081
+        },
+        {
+            "bidClose": 1.0903,
+            "bidHigh": 1.0897,
+            "bidLow": 1.0884,
+            "bidOpen": 1.0891,
+            "date": "2022-05-05T18:32:25.000Z",
+            "volume": 7497
+        },
+        {
+            "bidClose": 1.09,
+            "bidHigh": 1.0915,
+            "bidLow": 1.0897,
+            "bidOpen": 1.0903,
+            "date": "2022-05-06T18:32:25.000Z",
+            "volume": 3610
+        },
+        {
+            "bidClose": 1.0903,
+            "bidHigh": 1.0902,
+            "bidLow": 1.0897,
+            "bidOpen": 1.09,
+            "date": "2022-05-07T18:32:25.000Z",
+            "volume": 13569
+        },
+        {
+            "bidClose": 1.0895,
+            "bidHigh": 1.0914,
+            "bidLow": 1.09,
+            "bidOpen": 1.0903,
+            "date": "2022-05-08T18:32:25.000Z",
+            "volume": 11288
+        },
+        {
+            "bidClose": 1.0894,
+            "bidHigh": 1.0901,
+            "bidLow": 1.0893,
+            "bidOpen": 1.0895,
+            "date": "2022-05-09T18:32:25.000Z",
+            "volume": 2271
+        },
+        {
+            "bidClose": 1.0887,
+            "bidHigh": 1.0896,
+            "bidLow": 1.0892,
+            "bidOpen": 1.0894,
+            "date": "2022-05-10T18:32:25.000Z",
+            "volume": 1763
+        },
+        {
+            "bidClose": 1.0882,
+            "bidHigh": 1.0896,
+            "bidLow": 1.0877,
+            "bidOpen": 1.0887,
+            "date": "2022-05-11T18:32:25.000Z",
+            "volume": 9039
+        },
+        {
+            "bidClose": 1.0887,
+            "bidHigh": 1.0884,
+            "bidLow": 1.088,
+            "bidOpen": 1.0882,
+            "date": "2022-05-12T18:32:25.000Z",
+            "volume": 103
+        },
+        {
+            "bidClose": 1.0887,
+            "bidHigh": 1.0887,
+            "bidLow": 1.0874,
+            "bidOpen": 1.0887,
+            "date": "2022-05-13T18:32:25.000Z",
+            "volume": 5971
+        },
+        {
+            "bidClose": 1.0891,
+            "bidHigh": 1.0896,
+            "bidLow": 1.0886,
+            "bidOpen": 1.0887,
+            "date": "2022-05-14T18:32:25.000Z",
+            "volume": 6003
+        },
+        {
+            "bidClose": 1.0882,
+            "bidHigh": 1.0894,
+            "bidLow": 1.0882,
+            "bidOpen": 1.0891,
+            "date": "2022-05-15T18:32:25.000Z",
+            "volume": 11431
+        },
+        {
+            "bidClose": 1.0886,
+            "bidHigh": 1.0886,
+            "bidLow": 1.0881,
+            "bidOpen": 1.0882,
+            "date": "2022-05-16T18:32:25.000Z",
+            "volume": 305
+        },
+        {
+            "bidClose": 1.0887,
+            "bidHigh": 1.0889,
+            "bidLow": 1.0877,
+            "bidOpen": 1.0886,
+            "date": "2022-05-17T18:32:25.000Z",
+            "volume": 11146
+        },
+        {
+            "bidClose": 1.0878,
+            "bidHigh": 1.0894,
+            "bidLow": 1.0874,
+            "bidOpen": 1.0887,
+            "date": "2022-05-18T18:32:25.000Z",
+            "volume": 6261
+        },
+        {
+            "bidClose": 1.0873,
+            "bidHigh": 1.0889,
+            "bidLow": 1.087,
+            "bidOpen": 1.0878,
+            "date": "2022-05-19T18:32:25.000Z",
+            "volume": 823
+        },
+        {
+            "bidClose": 1.0883,
+            "bidHigh": 1.0873,
+            "bidLow": 1.0866,
+            "bidOpen": 1.0873,
+            "date": "2022-05-20T18:32:25.000Z",
+            "volume": 5288
+        },
+        {
+            "bidClose": 1.0893,
+            "bidHigh": 1.0895,
+            "bidLow": 1.0877,
+            "bidOpen": 1.0883,
+            "date": "2022-05-21T18:32:25.000Z",
+            "volume": 1991
+        },
+        {
+            "bidClose": 1.0903,
+            "bidHigh": 1.0901,
+            "bidLow": 1.0886,
+            "bidOpen": 1.0893,
+            "date": "2022-05-22T18:32:25.000Z",
+            "volume": 3232
+        },
+        {
+            "bidClose": 1.091,
+            "bidHigh": 1.0907,
+            "bidLow": 1.0901,
+            "bidOpen": 1.0903,
+            "date": "2022-05-23T18:32:25.000Z",
+            "volume": 12566
+        },
+        {
+            "bidClose": 1.0911,
+            "bidHigh": 1.0923,
+            "bidLow": 1.0899,
+            "bidOpen": 1.091,
+            "date": "2022-05-24T18:32:25.000Z",
+            "volume": 2026
+        },
+        {
+            "bidClose": 1.0923,
+            "bidHigh": 1.0918,
+            "bidLow": 1.0904,
+            "bidOpen": 1.0911,
+            "date": "2022-05-25T18:32:25.000Z",
+            "volume": 8606
+        },
+        {
+            "bidClose": 1.093,
+            "bidHigh": 1.0931,
+            "bidLow": 1.0915,
+            "bidOpen": 1.0923,
+            "date": "2022-05-26T18:32:25.000Z",
+            "volume": 12471
+        },
+        {
+            "bidClose": 1.0936,
+            "bidHigh": 1.0942,
+            "bidLow": 1.0927,
+            "bidOpen": 1.093,
+            "date": "2022-05-27T18:32:25.000Z",
+            "volume": 2228
+        },
+        {
+            "bidClose": 1.0947,
+            "bidHigh": 1.0943,
+            "bidLow": 1.0928,
+            "bidOpen": 1.0936,
+            "date": "2022-05-28T18:32:25.000Z",
+            "volume": 5221
+        },
+        {
+            "bidClose": 1.0937,
+            "bidHigh": 1.0954,
+            "bidLow": 1.0942,
+            "bidOpen": 1.0947,
+            "date": "2022-05-29T18:32:25.000Z",
+            "volume": 13103
+        },
+        {
+            "bidClose": 1.0924,
+            "bidHigh": 1.0942,
+            "bidLow": 1.0934,
+            "bidOpen": 1.0937,
+            "date": "2022-05-30T18:32:25.000Z",
+            "volume": 5964
+        },
+        {
+            "bidClose": 1.0934,
+            "bidHigh": 1.0929,
+            "bidLow": 1.0918,
+            "bidOpen": 1.0924,
+            "date": "2022-05-31T18:32:25.000Z",
+            "volume": 11912
+        },
+        {
+            "bidClose": 1.0937,
+            "bidHigh": 1.0942,
+            "bidLow": 1.093,
+            "bidOpen": 1.0934,
+            "date": "2022-06-01T18:32:25.000Z",
+            "volume": 12197
+        },
+        {
+            "bidClose": 1.0939,
+            "bidHigh": 1.0938,
+            "bidLow": 1.0936,
+            "bidOpen": 1.0937,
+            "date": "2022-06-02T18:32:25.000Z",
+            "volume": 3800
+        },
+        {
+            "bidClose": 1.0951,
+            "bidHigh": 1.0952,
+            "bidLow": 1.0932,
+            "bidOpen": 1.0939,
+            "date": "2022-06-03T18:32:25.000Z",
+            "volume": 15167
+        },
+        {
+            "bidClose": 1.095,
+            "bidHigh": 1.0961,
+            "bidLow": 1.0947,
+            "bidOpen": 1.0951,
+            "date": "2022-06-04T18:32:25.000Z",
+            "volume": 15828
+        },
+        {
+            "bidClose": 1.094,
+            "bidHigh": 1.0961,
+            "bidLow": 1.0948,
+            "bidOpen": 1.095,
+            "date": "2022-06-05T18:32:25.000Z",
+            "volume": 5292
+        },
+        {
+            "bidClose": 1.0929,
+            "bidHigh": 1.094,
+            "bidLow": 1.0931,
+            "bidOpen": 1.094,
+            "date": "2022-06-06T18:32:25.000Z",
+            "volume": 11518
+        },
+        {
+            "bidClose": 1.0938,
+            "bidHigh": 1.0938,
+            "bidLow": 1.0925,
+            "bidOpen": 1.0929,
+            "date": "2022-06-07T18:32:25.000Z",
+            "volume": 3887
+        },
+        {
+            "bidClose": 1.0933,
+            "bidHigh": 1.0943,
+            "bidLow": 1.0937,
+            "bidOpen": 1.0938,
+            "date": "2022-06-08T18:32:25.000Z",
+            "volume": 4392
+        },
+        {
+            "bidClose": 1.0923,
+            "bidHigh": 1.0945,
+            "bidLow": 1.0924,
+            "bidOpen": 1.0933,
+            "date": "2022-06-09T18:32:25.000Z",
+            "volume": 11325
+        },
+        {
+            "bidClose": 1.0924,
+            "bidHigh": 1.0923,
+            "bidLow": 1.092,
+            "bidOpen": 1.0923,
+            "date": "2022-06-10T18:32:25.000Z",
+            "volume": 11548
+        },
+        {
+            "bidClose": 1.0933,
+            "bidHigh": 1.0933,
+            "bidLow": 1.0916,
+            "bidOpen": 1.0924,
+            "date": "2022-06-11T18:32:25.000Z",
+            "volume": 1069
+        },
+        {
+            "bidClose": 1.0932,
+            "bidHigh": 1.0939,
+            "bidLow": 1.0925,
+            "bidOpen": 1.0933,
+            "date": "2022-06-12T18:32:25.000Z",
+            "volume": 11611
+        },
+        {
+            "bidClose": 1.0944,
+            "bidHigh": 1.0939,
+            "bidLow": 1.092,
+            "bidOpen": 1.0932,
+            "date": "2022-06-13T18:32:25.000Z",
+            "volume": 4432
+        },
+        {
+            "bidClose": 1.0947,
+            "bidHigh": 1.0946,
+            "bidLow": 1.0935,
+            "bidOpen": 1.0944,
+            "date": "2022-06-14T18:32:25.000Z",
+            "volume": 7703
+        },
+        {
+            "bidClose": 1.0941,
+            "bidHigh": 1.095,
+            "bidLow": 1.0943,
+            "bidOpen": 1.0947,
+            "date": "2022-06-15T18:32:25.000Z",
+            "volume": 169
+        },
+        {
+            "bidClose": 1.0933,
+            "bidHigh": 1.0942,
+            "bidLow": 1.094,
+            "bidOpen": 1.0941,
+            "date": "2022-06-16T18:32:25.000Z",
+            "volume": 7429
+        },
+        {
+            "bidClose": 1.0934,
+            "bidHigh": 1.0935,
+            "bidLow": 1.0927,
+            "bidOpen": 1.0933,
+            "date": "2022-06-17T18:32:25.000Z",
+            "volume": 2512
+        },
+        {
+            "bidClose": 1.0942,
+            "bidHigh": 1.0947,
+            "bidLow": 1.0932,
+            "bidOpen": 1.0934,
+            "date": "2022-06-18T18:32:25.000Z",
+            "volume": 2302
+        },
+        {
+            "bidClose": 1.0952,
+            "bidHigh": 1.095,
+            "bidLow": 1.0937,
+            "bidOpen": 1.0942,
+            "date": "2022-06-19T18:32:25.000Z",
+            "volume": 3688
+        },
+        {
+            "bidClose": 1.0963,
+            "bidHigh": 1.0958,
+            "bidLow": 1.0943,
+            "bidOpen": 1.0952,
+            "date": "2022-06-20T18:32:25.000Z",
+            "volume": 6671
+        },
+        {
+            "bidClose": 1.0974,
+            "bidHigh": 1.0966,
+            "bidLow": 1.0959,
+            "bidOpen": 1.0963,
+            "date": "2022-06-21T18:32:25.000Z",
+            "volume": 5159
+        },
+        {
+            "bidClose": 1.0968,
+            "bidHigh": 1.0979,
+            "bidLow": 1.0963,
+            "bidOpen": 1.0974,
+            "date": "2022-06-22T18:32:25.000Z",
+            "volume": 2570
+        },
+        {
+            "bidClose": 1.0958,
+            "bidHigh": 1.097,
+            "bidLow": 1.0964,
+            "bidOpen": 1.0968,
+            "date": "2022-06-23T18:32:25.000Z",
+            "volume": 6897
+        },
+        {
+            "bidClose": 1.0955,
+            "bidHigh": 1.0959,
+            "bidLow": 1.0958,
+            "bidOpen": 1.0958,
+            "date": "2022-06-24T18:32:25.000Z",
+            "volume": 280
+        },
+        {
+            "bidClose": 1.0956,
+            "bidHigh": 1.0963,
+            "bidLow": 1.0944,
+            "bidOpen": 1.0955,
+            "date": "2022-06-25T18:32:25.000Z",
+            "volume": 11963
+        },
+        {
+            "bidClose": 1.0964,
+            "bidHigh": 1.0968,
+            "bidLow": 1.0945,
+            "bidOpen": 1.0956,
+            "date": "2022-06-26T18:32:25.000Z",
+            "volume": 8834
+        },
+        {
+            "bidClose": 1.0975,
+            "bidHigh": 1.0966,
+            "bidLow": 1.0957,
+            "bidOpen": 1.0964,
+            "date": "2022-06-27T18:32:25.000Z",
+            "volume": 2935
+        },
+        {
+            "bidClose": 1.097,
+            "bidHigh": 1.0985,
+            "bidLow": 1.0968,
+            "bidOpen": 1.0975,
+            "date": "2022-06-28T18:32:25.000Z",
+            "volume": 7759
+        },
+        {
+            "bidClose": 1.0977,
+            "bidHigh": 1.0972,
+            "bidLow": 1.0963,
+            "bidOpen": 1.097,
+            "date": "2022-06-29T18:32:25.000Z",
+            "volume": 2994
+        },
+        {
+            "bidClose": 1.0982,
+            "bidHigh": 1.0986,
+            "bidLow": 1.0973,
+            "bidOpen": 1.0977,
+            "date": "2022-06-30T18:32:25.000Z",
+            "volume": 136
+        },
+        {
+            "bidClose": 1.0992,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0972,
+            "bidOpen": 1.0982,
+            "date": "2022-07-01T18:32:25.000Z",
+            "volume": 3096
+        },
+        {
+            "bidClose": 1.0992,
+            "bidHigh": 1.1002,
+            "bidLow": 1.0984,
+            "bidOpen": 1.0992,
+            "date": "2022-07-02T18:32:25.000Z",
+            "volume": 12350
+        },
+        {
+            "bidClose": 1.0981,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0984,
+            "bidOpen": 1.0992,
+            "date": "2022-07-03T18:32:25.000Z",
+            "volume": 244
+        },
+        {
+            "bidClose": 1.098,
+            "bidHigh": 1.0991,
+            "bidLow": 1.097,
+            "bidOpen": 1.0981,
+            "date": "2022-07-04T18:32:25.000Z",
+            "volume": 1041
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.099,
+            "bidLow": 1.0975,
+            "bidOpen": 1.098,
+            "date": "2022-07-05T18:32:25.000Z",
+            "volume": 2389
+        },
+        {
+            "bidClose": 1.0991,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0983,
+            "bidOpen": 1.0988,
+            "date": "2022-07-06T18:32:25.000Z",
+            "volume": 2781
+        },
+        {
+            "bidClose": 1.098,
+            "bidHigh": 1.1003,
+            "bidLow": 1.099,
+            "bidOpen": 1.0991,
+            "date": "2022-07-07T18:32:25.000Z",
+            "volume": 4643
+        },
+        {
+            "bidClose": 1.0985,
+            "bidHigh": 1.0983,
+            "bidLow": 1.097,
+            "bidOpen": 1.098,
+            "date": "2022-07-08T18:32:25.000Z",
+            "volume": 8664
+        },
+        {
+            "bidClose": 1.0987,
+            "bidHigh": 1.0991,
+            "bidLow": 1.0975,
+            "bidOpen": 1.0985,
+            "date": "2022-07-09T18:32:25.000Z",
+            "volume": 1914
+        },
+        {
+            "bidClose": 1.0985,
+            "bidHigh": 1.0992,
+            "bidLow": 1.0985,
+            "bidOpen": 1.0987,
+            "date": "2022-07-10T18:32:25.000Z",
+            "volume": 4273
+        },
+        {
+            "bidClose": 1.0989,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0982,
+            "bidOpen": 1.0985,
+            "date": "2022-07-11T18:32:25.000Z",
+            "volume": 438
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0996,
+            "bidLow": 1.0977,
+            "bidOpen": 1.0989,
+            "date": "2022-07-12T18:32:25.000Z",
+            "volume": 15714
+        },
+        {
+            "bidClose": 1.0995,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0988,
+            "bidOpen": 1.0988,
+            "date": "2022-07-13T18:32:25.000Z",
+            "volume": 15738
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.1002,
+            "bidLow": 1.0984,
+            "bidOpen": 1.0995,
+            "date": "2022-07-14T18:32:25.000Z",
+            "volume": 27
+        },
+        {
+            "bidClose": 1.0984,
+            "bidHigh": 1.0993,
+            "bidLow": 1.0982,
+            "bidOpen": 1.0988,
+            "date": "2022-07-15T18:32:25.000Z",
+            "volume": 267
+        },
+        {
+            "bidClose": 1.0984,
+            "bidHigh": 1.0996,
+            "bidLow": 1.0976,
+            "bidOpen": 1.0984,
+            "date": "2022-07-16T18:32:25.000Z",
+            "volume": 13332
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0977,
+            "bidOpen": 1.0984,
+            "date": "2022-07-17T18:32:25.000Z",
+            "volume": 879
+        },
+        {
+            "bidClose": 1.0987,
+            "bidHigh": 1.0992,
+            "bidLow": 1.0977,
+            "bidOpen": 1.0988,
+            "date": "2022-07-18T18:32:25.000Z",
+            "volume": 15289
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.099,
+            "bidLow": 1.0986,
+            "bidOpen": 1.0987,
+            "date": "2022-07-19T18:32:25.000Z",
+            "volume": 474
+        },
+        {
+            "bidClose": 1.0998,
+            "bidHigh": 1.1005,
+            "bidLow": 1.0987,
+            "bidOpen": 1.0997,
+            "date": "2022-07-20T18:32:25.000Z",
+            "volume": 3042
+        },
+        {
+            "bidClose": 1.1005,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0986,
+            "bidOpen": 1.0998,
+            "date": "2022-07-21T18:32:25.000Z",
+            "volume": 1357
+        },
+        {
+            "bidClose": 1.1002,
+            "bidHigh": 1.1016,
+            "bidLow": 1.0999,
+            "bidOpen": 1.1005,
+            "date": "2022-07-22T18:32:25.000Z",
+            "volume": 4042
+        },
+        {
+            "bidClose": 1.0989,
+            "bidHigh": 1.101,
+            "bidLow": 1.0991,
+            "bidOpen": 1.1002,
+            "date": "2022-07-23T18:32:25.000Z",
+            "volume": 1649
+        },
+        {
+            "bidClose": 1.098,
+            "bidHigh": 1.0991,
+            "bidLow": 1.0979,
+            "bidOpen": 1.0989,
+            "date": "2022-07-24T18:32:25.000Z",
+            "volume": 5511
+        },
+        {
+            "bidClose": 1.099,
+            "bidHigh": 1.0984,
+            "bidLow": 1.0969,
+            "bidOpen": 1.098,
+            "date": "2022-07-25T18:32:25.000Z",
+            "volume": 9585
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.1,
+            "bidLow": 1.098,
+            "bidOpen": 1.099,
+            "date": "2022-07-26T18:32:25.000Z",
+            "volume": 7496
+        },
+        {
+            "bidClose": 1.0984,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0987,
+            "bidOpen": 1.0997,
+            "date": "2022-07-27T18:32:25.000Z",
+            "volume": 7895
+        },
+        {
+            "bidClose": 1.0992,
+            "bidHigh": 1.0995,
+            "bidLow": 1.0978,
+            "bidOpen": 1.0984,
+            "date": "2022-07-28T18:32:25.000Z",
+            "volume": 6411
+        },
+        {
+            "bidClose": 1.0998,
+            "bidHigh": 1.0993,
+            "bidLow": 1.0989,
+            "bidOpen": 1.0992,
+            "date": "2022-07-29T18:32:25.000Z",
+            "volume": 9802
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0997,
+            "bidOpen": 1.0998,
+            "date": "2022-07-30T18:32:25.000Z",
+            "volume": 6685
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.1004,
+            "bidLow": 1.0982,
+            "bidOpen": 1.0993,
+            "date": "2022-07-31T18:32:25.000Z",
+            "volume": 5963
+        },
+        {
+            "bidClose": 1.0984,
+            "bidHigh": 1.099,
+            "bidLow": 1.0988,
+            "bidOpen": 1.0988,
+            "date": "2022-08-01T18:32:25.000Z",
+            "volume": 2191
+        },
+        {
+            "bidClose": 1.0982,
+            "bidHigh": 1.0992,
+            "bidLow": 1.098,
+            "bidOpen": 1.0984,
+            "date": "2022-08-02T18:32:25.000Z",
+            "volume": 5254
+        },
+        {
+            "bidClose": 1.0974,
+            "bidHigh": 1.0991,
+            "bidLow": 1.098,
+            "bidOpen": 1.0982,
+            "date": "2022-08-03T18:32:25.000Z",
+            "volume": 4534
+        },
+        {
+            "bidClose": 1.0975,
+            "bidHigh": 1.0975,
+            "bidLow": 1.0971,
+            "bidOpen": 1.0974,
+            "date": "2022-08-04T18:32:25.000Z",
+            "volume": 6337
+        },
+        {
+            "bidClose": 1.0974,
+            "bidHigh": 1.0979,
+            "bidLow": 1.0962,
+            "bidOpen": 1.0975,
+            "date": "2022-08-05T18:32:25.000Z",
+            "volume": 9909
+        },
+        {
+            "bidClose": 1.0963,
+            "bidHigh": 1.0976,
+            "bidLow": 1.097,
+            "bidOpen": 1.0974,
+            "date": "2022-08-06T18:32:25.000Z",
+            "volume": 6786
+        },
+        {
+            "bidClose": 1.096,
+            "bidHigh": 1.0969,
+            "bidLow": 1.0963,
+            "bidOpen": 1.0963,
+            "date": "2022-08-07T18:32:25.000Z",
+            "volume": 3215
+        },
+        {
+            "bidClose": 1.0967,
+            "bidHigh": 1.0971,
+            "bidLow": 1.0952,
+            "bidOpen": 1.096,
+            "date": "2022-08-08T18:32:25.000Z",
+            "volume": 5563
+        },
+        {
+            "bidClose": 1.0957,
+            "bidHigh": 1.0977,
+            "bidLow": 1.0958,
+            "bidOpen": 1.0967,
+            "date": "2022-08-09T18:32:25.000Z",
+            "volume": 4332
+        },
+        {
+            "bidClose": 1.0946,
+            "bidHigh": 1.0959,
+            "bidLow": 1.0957,
+            "bidOpen": 1.0957,
+            "date": "2022-08-10T18:32:25.000Z",
+            "volume": 6824
+        },
+        {
+            "bidClose": 1.0939,
+            "bidHigh": 1.095,
+            "bidLow": 1.0946,
+            "bidOpen": 1.0946,
+            "date": "2022-08-11T18:32:25.000Z",
+            "volume": 4726
+        },
+        {
+            "bidClose": 1.0939,
+            "bidHigh": 1.0949,
+            "bidLow": 1.0929,
+            "bidOpen": 1.0939,
+            "date": "2022-08-12T18:32:25.000Z",
+            "volume": 4587
+        },
+        {
+            "bidClose": 1.0938,
+            "bidHigh": 1.0948,
+            "bidLow": 1.0927,
+            "bidOpen": 1.0939,
+            "date": "2022-08-13T18:32:25.000Z",
+            "volume": 9181
+        },
+        {
+            "bidClose": 1.0939,
+            "bidHigh": 1.0951,
+            "bidLow": 1.0934,
+            "bidOpen": 1.0938,
+            "date": "2022-08-14T18:32:25.000Z",
+            "volume": 2026
+        },
+        {
+            "bidClose": 1.094,
+            "bidHigh": 1.0944,
+            "bidLow": 1.093,
+            "bidOpen": 1.0939,
+            "date": "2022-08-15T18:32:25.000Z",
+            "volume": 7961
+        },
+        {
+            "bidClose": 1.0936,
+            "bidHigh": 1.0943,
+            "bidLow": 1.0932,
+            "bidOpen": 1.094,
+            "date": "2022-08-16T18:32:25.000Z",
+            "volume": 5602
+        },
+        {
+            "bidClose": 1.0925,
+            "bidHigh": 1.0939,
+            "bidLow": 1.0927,
+            "bidOpen": 1.0936,
+            "date": "2022-08-17T18:32:25.000Z",
+            "volume": 10570
+        },
+        {
+            "bidClose": 1.0931,
+            "bidHigh": 1.0931,
+            "bidLow": 1.0924,
+            "bidOpen": 1.0925,
+            "date": "2022-08-18T18:32:25.000Z",
+            "volume": 1654
+        },
+        {
+            "bidClose": 1.0939,
+            "bidHigh": 1.0935,
+            "bidLow": 1.0931,
+            "bidOpen": 1.0931,
+            "date": "2022-08-19T18:32:25.000Z",
+            "volume": 11248
+        },
+        {
+            "bidClose": 1.0934,
+            "bidHigh": 1.0943,
+            "bidLow": 1.0939,
+            "bidOpen": 1.0939,
+            "date": "2022-08-20T18:32:25.000Z",
+            "volume": 2869
+        },
+        {
+            "bidClose": 1.0944,
+            "bidHigh": 1.0935,
+            "bidLow": 1.0928,
+            "bidOpen": 1.0934,
+            "date": "2022-08-21T18:32:25.000Z",
+            "volume": 16858
+        },
+        {
+            "bidClose": 1.0932,
+            "bidHigh": 1.0952,
+            "bidLow": 1.0935,
+            "bidOpen": 1.0944,
+            "date": "2022-08-22T18:32:25.000Z",
+            "volume": 13317
+        },
+        {
+            "bidClose": 1.094,
+            "bidHigh": 1.0936,
+            "bidLow": 1.0929,
+            "bidOpen": 1.0932,
+            "date": "2022-08-23T18:32:25.000Z",
+            "volume": 3668
+        },
+        {
+            "bidClose": 1.0949,
+            "bidHigh": 1.0941,
+            "bidLow": 1.0939,
+            "bidOpen": 1.094,
+            "date": "2022-08-24T18:32:25.000Z",
+            "volume": 7047
+        },
+        {
+            "bidClose": 1.0952,
+            "bidHigh": 1.0958,
+            "bidLow": 1.0937,
+            "bidOpen": 1.0949,
+            "date": "2022-08-25T18:32:25.000Z",
+            "volume": 5780
+        },
+        {
+            "bidClose": 1.0958,
+            "bidHigh": 1.0959,
+            "bidLow": 1.0942,
+            "bidOpen": 1.0952,
+            "date": "2022-08-26T18:32:25.000Z",
+            "volume": 2358
+        },
+        {
+            "bidClose": 1.0952,
+            "bidHigh": 1.0967,
+            "bidLow": 1.0945,
+            "bidOpen": 1.0958,
+            "date": "2022-08-27T18:32:25.000Z",
+            "volume": 4663
+        },
+        {
+            "bidClose": 1.0942,
+            "bidHigh": 1.0965,
+            "bidLow": 1.0946,
+            "bidOpen": 1.0952,
+            "date": "2022-08-28T18:32:25.000Z",
+            "volume": 1158
+        },
+        {
+            "bidClose": 1.0946,
+            "bidHigh": 1.0946,
+            "bidLow": 1.0939,
+            "bidOpen": 1.0942,
+            "date": "2022-08-29T18:32:25.000Z",
+            "volume": 7768
+        },
+        {
+            "bidClose": 1.0948,
+            "bidHigh": 1.0947,
+            "bidLow": 1.0945,
+            "bidOpen": 1.0946,
+            "date": "2022-08-30T18:32:25.000Z",
+            "volume": 9203
+        },
+        {
+            "bidClose": 1.0954,
+            "bidHigh": 1.0953,
+            "bidLow": 1.0947,
+            "bidOpen": 1.0948,
+            "date": "2022-08-31T18:32:25.000Z",
+            "volume": 3117
+        },
+        {
+            "bidClose": 1.0965,
+            "bidHigh": 1.0956,
+            "bidLow": 1.0946,
+            "bidOpen": 1.0954,
+            "date": "2022-09-01T18:32:25.000Z",
+            "volume": 11645
+        },
+        {
+            "bidClose": 1.0966,
+            "bidHigh": 1.0968,
+            "bidLow": 1.0957,
+            "bidOpen": 1.0965,
+            "date": "2022-09-02T18:32:25.000Z",
+            "volume": 1092
+        },
+        {
+            "bidClose": 1.0979,
+            "bidHigh": 1.0975,
+            "bidLow": 1.0957,
+            "bidOpen": 1.0966,
+            "date": "2022-09-03T18:32:25.000Z",
+            "volume": 1262
+        },
+        {
+            "bidClose": 1.099,
+            "bidHigh": 1.0979,
+            "bidLow": 1.0973,
+            "bidOpen": 1.0979,
+            "date": "2022-09-04T18:32:25.000Z",
+            "volume": 7139
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0983,
+            "bidOpen": 1.099,
+            "date": "2022-09-05T18:32:25.000Z",
+            "volume": 2143
+        },
+        {
+            "bidClose": 1.0978,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0988,
+            "bidOpen": 1.0988,
+            "date": "2022-09-06T18:32:25.000Z",
+            "volume": 4734
+        },
+        {
+            "bidClose": 1.0977,
+            "bidHigh": 1.0986,
+            "bidLow": 1.0967,
+            "bidOpen": 1.0978,
+            "date": "2022-09-07T18:32:25.000Z",
+            "volume": 1399
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0978,
+            "bidLow": 1.0975,
+            "bidOpen": 1.0977,
+            "date": "2022-09-08T18:32:25.000Z",
+            "volume": 9225
+        },
+        {
+            "bidClose": 1.0989,
+            "bidHigh": 1.0991,
+            "bidLow": 1.0985,
+            "bidOpen": 1.0988,
+            "date": "2022-09-09T18:32:25.000Z",
+            "volume": 6869
+        },
+        {
+            "bidClose": 1.0999,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0982,
+            "bidOpen": 1.0989,
+            "date": "2022-09-10T18:32:25.000Z",
+            "volume": 8802
+        },
+        {
+            "bidClose": 1.1008,
+            "bidHigh": 1.1012,
+            "bidLow": 1.099,
+            "bidOpen": 1.0999,
+            "date": "2022-09-11T18:32:25.000Z",
+            "volume": 6361
+        },
+        {
+            "bidClose": 1.1004,
+            "bidHigh": 1.1021,
+            "bidLow": 1.1007,
+            "bidOpen": 1.1008,
+            "date": "2022-09-12T18:32:25.000Z",
+            "volume": 5728
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.1009,
+            "bidLow": 1.0994,
+            "bidOpen": 1.1004,
+            "date": "2022-09-13T18:32:25.000Z",
+            "volume": 7954
+        },
+        {
+            "bidClose": 1.0998,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0994,
+            "bidOpen": 1.0997,
+            "date": "2022-09-14T18:32:25.000Z",
+            "volume": 2421
+        },
+        {
+            "bidClose": 1.0992,
+            "bidHigh": 1.1003,
+            "bidLow": 1.0989,
+            "bidOpen": 1.0998,
+            "date": "2022-09-15T18:32:25.000Z",
+            "volume": 4711
+        },
+        {
+            "bidClose": 1.0986,
+            "bidHigh": 1.0993,
+            "bidLow": 1.0982,
+            "bidOpen": 1.0992,
+            "date": "2022-09-16T18:32:25.000Z",
+            "volume": 6830
+        },
+        {
+            "bidClose": 1.0991,
+            "bidHigh": 1.0988,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0986,
+            "date": "2022-09-17T18:32:25.000Z",
+            "volume": 429
+        },
+        {
+            "bidClose": 1.0994,
+            "bidHigh": 1.0997,
+            "bidLow": 1.0991,
+            "bidOpen": 1.0991,
+            "date": "2022-09-18T18:32:25.000Z",
+            "volume": 15341
+        },
+        {
+            "bidClose": 1.0999,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0991,
+            "bidOpen": 1.0994,
+            "date": "2022-09-19T18:32:25.000Z",
+            "volume": 6125
+        },
+        {
+            "bidClose": 1.1007,
+            "bidHigh": 1.1012,
+            "bidLow": 1.0993,
+            "bidOpen": 1.0999,
+            "date": "2022-09-20T18:32:25.000Z",
+            "volume": 2336
+        },
+        {
+            "bidClose": 1.0994,
+            "bidHigh": 1.1017,
+            "bidLow": 1.1004,
+            "bidOpen": 1.1007,
+            "date": "2022-09-21T18:32:25.000Z",
+            "volume": 12410
+        },
+        {
+            "bidClose": 1.0995,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0993,
+            "bidOpen": 1.0994,
+            "date": "2022-09-22T18:32:25.000Z",
+            "volume": 1803
+        },
+        {
+            "bidClose": 1.0992,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0984,
+            "bidOpen": 1.0995,
+            "date": "2022-09-23T18:32:25.000Z",
+            "volume": 26
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0992,
+            "date": "2022-09-24T18:32:25.000Z",
+            "volume": 6710
+        },
+        {
+            "bidClose": 1.0984,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0975,
+            "bidOpen": 1.0988,
+            "date": "2022-09-25T18:32:25.000Z",
+            "volume": 1433
+        },
+        {
+            "bidClose": 1.0977,
+            "bidHigh": 1.0986,
+            "bidLow": 1.0979,
+            "bidOpen": 1.0984,
+            "date": "2022-09-26T18:32:25.000Z",
+            "volume": 5447
+        },
+        {
+            "bidClose": 1.0972,
+            "bidHigh": 1.0979,
+            "bidLow": 1.0974,
+            "bidOpen": 1.0977,
+            "date": "2022-09-27T18:32:25.000Z",
+            "volume": 5068
+        },
+        {
+            "bidClose": 1.098,
+            "bidHigh": 1.0973,
+            "bidLow": 1.0968,
+            "bidOpen": 1.0972,
+            "date": "2022-09-28T18:32:25.000Z",
+            "volume": 6851
+        },
+        {
+            "bidClose": 1.0971,
+            "bidHigh": 1.099,
+            "bidLow": 1.0972,
+            "bidOpen": 1.098,
+            "date": "2022-09-29T18:32:25.000Z",
+            "volume": 7279
+        },
+        {
+            "bidClose": 1.0965,
+            "bidHigh": 1.0974,
+            "bidLow": 1.0958,
+            "bidOpen": 1.0971,
+            "date": "2022-09-30T18:32:25.000Z",
+            "volume": 2752
+        },
+        {
+            "bidClose": 1.0969,
+            "bidHigh": 1.0969,
+            "bidLow": 1.0955,
+            "bidOpen": 1.0965,
+            "date": "2022-10-01T18:32:25.000Z",
+            "volume": 7971
+        },
+        {
+            "bidClose": 1.0962,
+            "bidHigh": 1.0977,
+            "bidLow": 1.0959,
+            "bidOpen": 1.0969,
+            "date": "2022-10-02T18:32:25.000Z",
+            "volume": 4399
+        },
+        {
+            "bidClose": 1.097,
+            "bidHigh": 1.0962,
+            "bidLow": 1.0955,
+            "bidOpen": 1.0962,
+            "date": "2022-10-03T18:32:25.000Z",
+            "volume": 780
+        },
+        {
+            "bidClose": 1.097,
+            "bidHigh": 1.0973,
+            "bidLow": 1.0967,
+            "bidOpen": 1.097,
+            "date": "2022-10-04T18:32:25.000Z",
+            "volume": 312
+        },
+        {
+            "bidClose": 1.098,
+            "bidHigh": 1.0975,
+            "bidLow": 1.0965,
+            "bidOpen": 1.097,
+            "date": "2022-10-05T18:32:25.000Z",
+            "volume": 2193
+        },
+        {
+            "bidClose": 1.0983,
+            "bidHigh": 1.0981,
+            "bidLow": 1.0977,
+            "bidOpen": 1.098,
+            "date": "2022-10-06T18:32:25.000Z",
+            "volume": 7626
+        },
+        {
+            "bidClose": 1.0986,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0972,
+            "bidOpen": 1.0983,
+            "date": "2022-10-07T18:32:25.000Z",
+            "volume": 14390
+        },
+        {
+            "bidClose": 1.0974,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0976,
+            "bidOpen": 1.0986,
+            "date": "2022-10-08T18:32:25.000Z",
+            "volume": 2545
+        },
+        {
+            "bidClose": 1.0983,
+            "bidHigh": 1.0979,
+            "bidLow": 1.0967,
+            "bidOpen": 1.0974,
+            "date": "2022-10-09T18:32:25.000Z",
+            "volume": 446
+        },
+        {
+            "bidClose": 1.0983,
+            "bidHigh": 1.099,
+            "bidLow": 1.0978,
+            "bidOpen": 1.0983,
+            "date": "2022-10-10T18:32:25.000Z",
+            "volume": 1659
+        },
+        {
+            "bidClose": 1.0991,
+            "bidHigh": 1.0992,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0983,
+            "date": "2022-10-11T18:32:25.000Z",
+            "volume": 9912
+        },
+        {
+            "bidClose": 1.0987,
+            "bidHigh": 1.1,
+            "bidLow": 1.0982,
+            "bidOpen": 1.0991,
+            "date": "2022-10-12T18:32:25.000Z",
+            "volume": 2135
+        },
+        {
+            "bidClose": 1.0995,
+            "bidHigh": 1.0996,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0987,
+            "date": "2022-10-13T18:32:25.000Z",
+            "volume": 3800
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.1,
+            "bidLow": 1.0992,
+            "bidOpen": 1.0995,
+            "date": "2022-10-14T18:32:25.000Z",
+            "volume": 1856
+        },
+        {
+            "bidClose": 1.0996,
+            "bidHigh": 1.1003,
+            "bidLow": 1.0994,
+            "bidOpen": 1.0997,
+            "date": "2022-10-15T18:32:25.000Z",
+            "volume": 5880
+        },
+        {
+            "bidClose": 1.0994,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0987,
+            "bidOpen": 1.0996,
+            "date": "2022-10-16T18:32:25.000Z",
+            "volume": 10131
+        },
+        {
+            "bidClose": 1.0986,
+            "bidHigh": 1.0996,
+            "bidLow": 1.0986,
+            "bidOpen": 1.0994,
+            "date": "2022-10-17T18:32:25.000Z",
+            "volume": 2511
+        },
+        {
+            "bidClose": 1.0981,
+            "bidHigh": 1.0986,
+            "bidLow": 1.0976,
+            "bidOpen": 1.0986,
+            "date": "2022-10-18T18:32:25.000Z",
+            "volume": 10404
+        },
+        {
+            "bidClose": 1.0971,
+            "bidHigh": 1.0984,
+            "bidLow": 1.098,
+            "bidOpen": 1.0981,
+            "date": "2022-10-19T18:32:25.000Z",
+            "volume": 6701
+        },
+        {
+            "bidClose": 1.0973,
+            "bidHigh": 1.0974,
+            "bidLow": 1.0962,
+            "bidOpen": 1.0971,
+            "date": "2022-10-20T18:32:25.000Z",
+            "volume": 5420
+        },
+        {
+            "bidClose": 1.0977,
+            "bidHigh": 1.0985,
+            "bidLow": 1.0971,
+            "bidOpen": 1.0973,
+            "date": "2022-10-21T18:32:25.000Z",
+            "volume": 4546
+        },
+        {
+            "bidClose": 1.099,
+            "bidHigh": 1.0987,
+            "bidLow": 1.0972,
+            "bidOpen": 1.0977,
+            "date": "2022-10-22T18:32:25.000Z",
+            "volume": 11257
+        },
+        {
+            "bidClose": 1.0995,
+            "bidHigh": 1.099,
+            "bidLow": 1.0985,
+            "bidOpen": 1.099,
+            "date": "2022-10-23T18:32:25.000Z",
+            "volume": 12107
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.0997,
+            "bidLow": 1.0992,
+            "bidOpen": 1.0995,
+            "date": "2022-10-24T18:32:25.000Z",
+            "volume": 3435
+        },
+        {
+            "bidClose": 1.0991,
+            "bidHigh": 1.1006,
+            "bidLow": 1.0995,
+            "bidOpen": 1.0997,
+            "date": "2022-10-25T18:32:25.000Z",
+            "volume": 5860
+        },
+        {
+            "bidClose": 1.0989,
+            "bidHigh": 1.1002,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0991,
+            "date": "2022-10-26T18:32:25.000Z",
+            "volume": 11993
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.1,
+            "bidLow": 1.0983,
+            "bidOpen": 1.0989,
+            "date": "2022-10-27T18:32:25.000Z",
+            "volume": 1802
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.0996,
+            "bidLow": 1.0978,
+            "bidOpen": 1.0988,
+            "date": "2022-10-28T18:32:25.000Z",
+            "volume": 11879
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0998,
+            "bidLow": 1.0994,
+            "bidOpen": 1.0997,
+            "date": "2022-10-29T18:32:25.000Z",
+            "volume": 12069
+        },
+        {
+            "bidClose": 1.0987,
+            "bidHigh": 1.1,
+            "bidLow": 1.098,
+            "bidOpen": 1.0988,
+            "date": "2022-10-30T18:32:25.000Z",
+            "volume": 10671
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.1,
+            "bidLow": 1.0985,
+            "bidOpen": 1.0987,
+            "date": "2022-10-31T18:32:25.000Z",
+            "volume": 7876
+        },
+        {
+            "bidClose": 1.1,
+            "bidHigh": 1.1005,
+            "bidLow": 1.0985,
+            "bidOpen": 1.0997,
+            "date": "2022-11-01T18:32:25.000Z",
+            "volume": 231
+        },
+        {
+            "bidClose": 1.1,
+            "bidHigh": 1.1002,
+            "bidLow": 1.0994,
+            "bidOpen": 1.1,
+            "date": "2022-11-02T18:32:25.000Z",
+            "volume": 13014
+        },
+        {
+            "bidClose": 1.101,
+            "bidHigh": 1.1006,
+            "bidLow": 1.0995,
+            "bidOpen": 1.1,
+            "date": "2022-11-03T18:32:25.000Z",
+            "volume": 9632
+        },
+        {
+            "bidClose": 1.1002,
+            "bidHigh": 1.1013,
+            "bidLow": 1.101,
+            "bidOpen": 1.101,
+            "date": "2022-11-04T18:32:25.000Z",
+            "volume": 5684
+        },
+        {
+            "bidClose": 1.1012,
+            "bidHigh": 1.1004,
+            "bidLow": 1.0989,
+            "bidOpen": 1.1002,
+            "date": "2022-11-05T18:32:25.000Z",
+            "volume": 2603
+        },
+        {
+            "bidClose": 1.1002,
+            "bidHigh": 1.1022,
+            "bidLow": 1.1007,
+            "bidOpen": 1.1012,
+            "date": "2022-11-06T18:32:25.000Z",
+            "volume": 3301
+        },
+        {
+            "bidClose": 1.101,
+            "bidHigh": 1.1008,
+            "bidLow": 1.0994,
+            "bidOpen": 1.1002,
+            "date": "2022-11-07T18:32:25.000Z",
+            "volume": 7207
+        },
+        {
+            "bidClose": 1.1014,
+            "bidHigh": 1.1011,
+            "bidLow": 1.1002,
+            "bidOpen": 1.101,
+            "date": "2022-11-08T18:32:25.000Z",
+            "volume": 3198
+        },
+        {
+            "bidClose": 1.1016,
+            "bidHigh": 1.1022,
+            "bidLow": 1.1008,
+            "bidOpen": 1.1014,
+            "date": "2022-11-09T18:32:25.000Z",
+            "volume": 8801
+        },
+        {
+            "bidClose": 1.1011,
+            "bidHigh": 1.1021,
+            "bidLow": 1.1005,
+            "bidOpen": 1.1016,
+            "date": "2022-11-10T18:32:25.000Z",
+            "volume": 11525
+        },
+        {
+            "bidClose": 1.1006,
+            "bidHigh": 1.1013,
+            "bidLow": 1.1007,
+            "bidOpen": 1.1011,
+            "date": "2022-11-11T18:32:25.000Z",
+            "volume": 14046
+        },
+        {
+            "bidClose": 1.0999,
+            "bidHigh": 1.1011,
+            "bidLow": 1.0999,
+            "bidOpen": 1.1006,
+            "date": "2022-11-12T18:32:25.000Z",
+            "volume": 1513
+        },
+        {
+            "bidClose": 1.1006,
+            "bidHigh": 1.1004,
+            "bidLow": 1.0993,
+            "bidOpen": 1.0999,
+            "date": "2022-11-13T18:32:25.000Z",
+            "volume": 4475
+        },
+        {
+            "bidClose": 1.1007,
+            "bidHigh": 1.1015,
+            "bidLow": 1.1001,
+            "bidOpen": 1.1006,
+            "date": "2022-11-14T18:32:25.000Z",
+            "volume": 13165
+        },
+        {
+            "bidClose": 1.1006,
+            "bidHigh": 1.1019,
+            "bidLow": 1.0999,
+            "bidOpen": 1.1007,
+            "date": "2022-11-15T18:32:25.000Z",
+            "volume": 5338
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.1011,
+            "bidLow": 1.0995,
+            "bidOpen": 1.1006,
+            "date": "2022-11-16T18:32:25.000Z",
+            "volume": 2205
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.1003,
+            "bidLow": 1.0988,
+            "bidOpen": 1.0993,
+            "date": "2022-11-17T18:32:25.000Z",
+            "volume": 3070
+        },
+        {
+            "bidClose": 1.0979,
+            "bidHigh": 1.0995,
+            "bidLow": 1.0987,
+            "bidOpen": 1.0988,
+            "date": "2022-11-18T18:32:25.000Z",
+            "volume": 3809
+        },
+        {
+            "bidClose": 1.0966,
+            "bidHigh": 1.0987,
+            "bidLow": 1.0973,
+            "bidOpen": 1.0979,
+            "date": "2022-11-19T18:32:25.000Z",
+            "volume": 8982
+        },
+        {
+            "bidClose": 1.0967,
+            "bidHigh": 1.0976,
+            "bidLow": 1.0964,
+            "bidOpen": 1.0966,
+            "date": "2022-11-20T18:32:25.000Z",
+            "volume": 478
+        },
+        {
+            "bidClose": 1.0978,
+            "bidHigh": 1.0968,
+            "bidLow": 1.0956,
+            "bidOpen": 1.0967,
+            "date": "2022-11-21T18:32:25.000Z",
+            "volume": 2674
+        },
+        {
+            "bidClose": 1.0978,
+            "bidHigh": 1.0991,
+            "bidLow": 1.0975,
+            "bidOpen": 1.0978,
+            "date": "2022-11-22T18:32:25.000Z",
+            "volume": 2522
+        },
+        {
+            "bidClose": 1.0969,
+            "bidHigh": 1.0981,
+            "bidLow": 1.0966,
+            "bidOpen": 1.0978,
+            "date": "2022-11-23T18:32:25.000Z",
+            "volume": 404
+        },
+        {
+            "bidClose": 1.0975,
+            "bidHigh": 1.0973,
+            "bidLow": 1.0958,
+            "bidOpen": 1.0969,
+            "date": "2022-11-24T18:32:25.000Z",
+            "volume": 6716
+        },
+        {
+            "bidClose": 1.0984,
+            "bidHigh": 1.0977,
+            "bidLow": 1.0972,
+            "bidOpen": 1.0975,
+            "date": "2022-11-25T18:32:25.000Z",
+            "volume": 1240
+        },
+        {
+            "bidClose": 1.0975,
+            "bidHigh": 1.0985,
+            "bidLow": 1.0976,
+            "bidOpen": 1.0984,
+            "date": "2022-11-26T18:32:25.000Z",
+            "volume": 4970
+        },
+        {
+            "bidClose": 1.097,
+            "bidHigh": 1.0979,
+            "bidLow": 1.0967,
+            "bidOpen": 1.0975,
+            "date": "2022-11-27T18:32:25.000Z",
+            "volume": 3336
+        },
+        {
+            "bidClose": 1.0962,
+            "bidHigh": 1.0973,
+            "bidLow": 1.0969,
+            "bidOpen": 1.097,
+            "date": "2022-11-28T18:32:25.000Z",
+            "volume": 5560
+        },
+        {
+            "bidClose": 1.0965,
+            "bidHigh": 1.0966,
+            "bidLow": 1.0953,
+            "bidOpen": 1.0962,
+            "date": "2022-11-29T18:32:25.000Z",
+            "volume": 12043
+        },
+        {
+            "bidClose": 1.0953,
+            "bidHigh": 1.097,
+            "bidLow": 1.0959,
+            "bidOpen": 1.0965,
+            "date": "2022-11-30T18:32:25.000Z",
+            "volume": 5216
+        },
+        {
+            "bidClose": 1.0953,
+            "bidHigh": 1.0959,
+            "bidLow": 1.0949,
+            "bidOpen": 1.0953,
+            "date": "2022-12-01T18:32:25.000Z",
+            "volume": 6931
+        },
+        {
+            "bidClose": 1.0955,
+            "bidHigh": 1.0954,
+            "bidLow": 1.0943,
+            "bidOpen": 1.0953,
+            "date": "2022-12-02T18:32:25.000Z",
+            "volume": 11079
+        },
+        {
+            "bidClose": 1.095,
+            "bidHigh": 1.0964,
+            "bidLow": 1.0951,
+            "bidOpen": 1.0955,
+            "date": "2022-12-03T18:32:25.000Z",
+            "volume": 11392
+        },
+        {
+            "bidClose": 1.096,
+            "bidHigh": 1.0962,
+            "bidLow": 1.0948,
+            "bidOpen": 1.095,
+            "date": "2022-12-04T18:32:25.000Z",
+            "volume": 2105
+        },
+        {
+            "bidClose": 1.0958,
+            "bidHigh": 1.0963,
+            "bidLow": 1.0954,
+            "bidOpen": 1.096,
+            "date": "2022-12-05T18:32:25.000Z",
+            "volume": 3189
+        },
+        {
+            "bidClose": 1.0968,
+            "bidHigh": 1.097,
+            "bidLow": 1.0948,
+            "bidOpen": 1.0958,
+            "date": "2022-12-06T18:32:25.000Z",
+            "volume": 7142
+        },
+        {
+            "bidClose": 1.0958,
+            "bidHigh": 1.098,
+            "bidLow": 1.0956,
+            "bidOpen": 1.0968,
+            "date": "2022-12-07T18:32:25.000Z",
+            "volume": 2410
+        },
+        {
+            "bidClose": 1.0945,
+            "bidHigh": 1.0967,
+            "bidLow": 1.095,
+            "bidOpen": 1.0958,
+            "date": "2022-12-08T18:32:25.000Z",
+            "volume": 3181
+        },
+        {
+            "bidClose": 1.0949,
+            "bidHigh": 1.0948,
+            "bidLow": 1.0942,
+            "bidOpen": 1.0945,
+            "date": "2022-12-09T18:32:25.000Z",
+            "volume": 1422
+        },
+        {
+            "bidClose": 1.0946,
+            "bidHigh": 1.0955,
+            "bidLow": 1.0941,
+            "bidOpen": 1.0949,
+            "date": "2022-12-10T18:32:25.000Z",
+            "volume": 9600
+        },
+        {
+            "bidClose": 1.0952,
+            "bidHigh": 1.0954,
+            "bidLow": 1.0937,
+            "bidOpen": 1.0946,
+            "date": "2022-12-11T18:32:25.000Z",
+            "volume": 5131
+        },
+        {
+            "bidClose": 1.094,
+            "bidHigh": 1.0965,
+            "bidLow": 1.094,
+            "bidOpen": 1.0952,
+            "date": "2022-12-12T18:32:25.000Z",
+            "volume": 7533
+        },
+        {
+            "bidClose": 1.0928,
+            "bidHigh": 1.0947,
+            "bidLow": 1.0933,
+            "bidOpen": 1.094,
+            "date": "2022-12-13T18:32:25.000Z",
+            "volume": 802
+        },
+        {
+            "bidClose": 1.0922,
+            "bidHigh": 1.094,
+            "bidLow": 1.0925,
+            "bidOpen": 1.0928,
+            "date": "2022-12-14T18:32:25.000Z",
+            "volume": 11719
+        },
+        {
+            "bidClose": 1.0911,
+            "bidHigh": 1.0928,
+            "bidLow": 1.0911,
+            "bidOpen": 1.0922,
+            "date": "2022-12-15T18:32:25.000Z",
+            "volume": 7386
+        },
+        {
+            "bidClose": 1.0919,
+            "bidHigh": 1.092,
+            "bidLow": 1.0902,
+            "bidOpen": 1.0911,
+            "date": "2022-12-16T18:32:25.000Z",
+            "volume": 3669
+        },
+        {
+            "bidClose": 1.0927,
+            "bidHigh": 1.0926,
+            "bidLow": 1.0918,
+            "bidOpen": 1.0919,
+            "date": "2022-12-17T18:32:25.000Z",
+            "volume": 4198
+        },
+        {
+            "bidClose": 1.0919,
+            "bidHigh": 1.093,
+            "bidLow": 1.0923,
+            "bidOpen": 1.0927,
+            "date": "2022-12-18T18:32:25.000Z",
+            "volume": 10526
+        },
+        {
+            "bidClose": 1.0912,
+            "bidHigh": 1.0924,
+            "bidLow": 1.0918,
+            "bidOpen": 1.0919,
+            "date": "2022-12-19T18:32:25.000Z",
+            "volume": 5308
+        },
+        {
+            "bidClose": 1.0905,
+            "bidHigh": 1.0912,
+            "bidLow": 1.0911,
+            "bidOpen": 1.0912,
+            "date": "2022-12-20T18:32:25.000Z",
+            "volume": 2894
+        },
+        {
+            "bidClose": 1.0897,
+            "bidHigh": 1.0913,
+            "bidLow": 1.0892,
+            "bidOpen": 1.0905,
+            "date": "2022-12-21T18:32:25.000Z",
+            "volume": 9
+        },
+        {
+            "bidClose": 1.0904,
+            "bidHigh": 1.0898,
+            "bidLow": 1.089,
+            "bidOpen": 1.0897,
+            "date": "2022-12-22T18:32:25.000Z",
+            "volume": 1395
+        },
+        {
+            "bidClose": 1.0905,
+            "bidHigh": 1.0906,
+            "bidLow": 1.0898,
+            "bidOpen": 1.0904,
+            "date": "2022-12-23T18:32:25.000Z",
+            "volume": 4348
+        },
+        {
+            "bidClose": 1.0917,
+            "bidHigh": 1.0916,
+            "bidLow": 1.0893,
+            "bidOpen": 1.0905,
+            "date": "2022-12-24T18:32:25.000Z",
+            "volume": 6478
+        },
+        {
+            "bidClose": 1.0906,
+            "bidHigh": 1.092,
+            "bidLow": 1.0907,
+            "bidOpen": 1.0917,
+            "date": "2022-12-25T18:32:25.000Z",
+            "volume": 14042
+        },
+        {
+            "bidClose": 1.0899,
+            "bidHigh": 1.0908,
+            "bidLow": 1.0899,
+            "bidOpen": 1.0906,
+            "date": "2022-12-26T18:32:25.000Z",
+            "volume": 11905
+        },
+        {
+            "bidClose": 1.0908,
+            "bidHigh": 1.0908,
+            "bidLow": 1.0893,
+            "bidOpen": 1.0899,
+            "date": "2022-12-27T18:32:25.000Z",
+            "volume": 7200
+        },
+        {
+            "bidClose": 1.0915,
+            "bidHigh": 1.0916,
+            "bidLow": 1.0908,
+            "bidOpen": 1.0908,
+            "date": "2022-12-28T18:32:25.000Z",
+            "volume": 6180
+        },
+        {
+            "bidClose": 1.0911,
+            "bidHigh": 1.0918,
+            "bidLow": 1.0902,
+            "bidOpen": 1.0915,
+            "date": "2022-12-29T18:32:25.000Z",
+            "volume": 9302
+        },
+        {
+            "bidClose": 1.09,
+            "bidHigh": 1.0923,
+            "bidLow": 1.0902,
+            "bidOpen": 1.0911,
+            "date": "2022-12-30T18:32:25.000Z",
+            "volume": 1805
+        },
+        {
+            "bidClose": 1.0904,
+            "bidHigh": 1.0909,
+            "bidLow": 1.0898,
+            "bidOpen": 1.09,
+            "date": "2022-12-31T18:32:25.000Z",
+            "volume": 9686
+        },
+        {
+            "bidClose": 1.0902,
+            "bidHigh": 1.0906,
+            "bidLow": 1.0895,
+            "bidOpen": 1.0904,
+            "date": "2023-01-01T18:32:25.000Z",
+            "volume": 10817
+        },
+        {
+            "bidClose": 1.0913,
+            "bidHigh": 1.0902,
+            "bidLow": 1.0893,
+            "bidOpen": 1.0902,
+            "date": "2023-01-02T18:32:25.000Z",
+            "volume": 9126
+        },
+        {
+            "bidClose": 1.0926,
+            "bidHigh": 1.0919,
+            "bidLow": 1.0911,
+            "bidOpen": 1.0913,
+            "date": "2023-01-03T18:32:25.000Z",
+            "volume": 7150
+        },
+        {
+            "bidClose": 1.0927,
+            "bidHigh": 1.0933,
+            "bidLow": 1.0916,
+            "bidOpen": 1.0926,
+            "date": "2023-01-04T18:32:25.000Z",
+            "volume": 1873
+        },
+        {
+            "bidClose": 1.094,
+            "bidHigh": 1.0931,
+            "bidLow": 1.0916,
+            "bidOpen": 1.0927,
+            "date": "2023-01-05T18:32:25.000Z",
+            "volume": 12387
+        },
+        {
+            "bidClose": 1.0949,
+            "bidHigh": 1.0941,
+            "bidLow": 1.094,
+            "bidOpen": 1.094,
+            "date": "2023-01-06T18:32:25.000Z",
+            "volume": 12804
+        },
+        {
+            "bidClose": 1.095,
+            "bidHigh": 1.0954,
+            "bidLow": 1.0947,
+            "bidOpen": 1.0949,
+            "date": "2023-01-07T18:32:25.000Z",
+            "volume": 560
+        },
+        {
+            "bidClose": 1.0962,
+            "bidHigh": 1.0959,
+            "bidLow": 1.0944,
+            "bidOpen": 1.095,
+            "date": "2023-01-08T18:32:25.000Z",
+            "volume": 13712
+        },
+        {
+            "bidClose": 1.0958,
+            "bidHigh": 1.0966,
+            "bidLow": 1.0954,
+            "bidOpen": 1.0962,
+            "date": "2023-01-09T18:32:25.000Z",
+            "volume": 2537
+        },
+        {
+            "bidClose": 1.0948,
+            "bidHigh": 1.096,
+            "bidLow": 1.0954,
+            "bidOpen": 1.0958,
+            "date": "2023-01-10T18:32:25.000Z",
+            "volume": 3473
+        },
+        {
+            "bidClose": 1.0948,
+            "bidHigh": 1.0952,
+            "bidLow": 1.0948,
+            "bidOpen": 1.0948,
+            "date": "2023-01-11T18:32:25.000Z",
+            "volume": 1793
+        },
+        {
+            "bidClose": 1.0942,
+            "bidHigh": 1.096,
+            "bidLow": 1.0948,
+            "bidOpen": 1.0948,
+            "date": "2023-01-12T18:32:25.000Z",
+            "volume": 7017
+        },
+        {
+            "bidClose": 1.0948,
+            "bidHigh": 1.0953,
+            "bidLow": 1.0936,
+            "bidOpen": 1.0942,
+            "date": "2023-01-13T18:32:25.000Z",
+            "volume": 4679
+        },
+        {
+            "bidClose": 1.096,
+            "bidHigh": 1.096,
+            "bidLow": 1.0946,
+            "bidOpen": 1.0948,
+            "date": "2023-01-14T18:32:25.000Z",
+            "volume": 5322
+        },
+        {
+            "bidClose": 1.0969,
+            "bidHigh": 1.0971,
+            "bidLow": 1.0952,
+            "bidOpen": 1.096,
+            "date": "2023-01-15T18:32:25.000Z",
+            "volume": 1181
+        },
+        {
+            "bidClose": 1.0973,
+            "bidHigh": 1.0971,
+            "bidLow": 1.0961,
+            "bidOpen": 1.0969,
+            "date": "2023-01-16T18:32:25.000Z",
+            "volume": 1909
+        },
+        {
+            "bidClose": 1.0984,
+            "bidHigh": 1.0978,
+            "bidLow": 1.097,
+            "bidOpen": 1.0973,
+            "date": "2023-01-17T18:32:25.000Z",
+            "volume": 2064
+        },
+        {
+            "bidClose": 1.0995,
+            "bidHigh": 1.0993,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0984,
+            "date": "2023-01-18T18:32:25.000Z",
+            "volume": 3234
+        },
+        {
+            "bidClose": 1.1006,
+            "bidHigh": 1.1003,
+            "bidLow": 1.099,
+            "bidOpen": 1.0995,
+            "date": "2023-01-19T18:32:25.000Z",
+            "volume": 6099
+        },
+        {
+            "bidClose": 1.1007,
+            "bidHigh": 1.1007,
+            "bidLow": 1.0996,
+            "bidOpen": 1.1006,
+            "date": "2023-01-20T18:32:25.000Z",
+            "volume": 2947
+        },
+        {
+            "bidClose": 1.1012,
+            "bidHigh": 1.1012,
+            "bidLow": 1.0998,
+            "bidOpen": 1.1007,
+            "date": "2023-01-21T18:32:25.000Z",
+            "volume": 6725
+        },
+        {
+            "bidClose": 1.102,
+            "bidHigh": 1.1017,
+            "bidLow": 1.1011,
+            "bidOpen": 1.1012,
+            "date": "2023-01-22T18:32:25.000Z",
+            "volume": 5633
+        },
+        {
+            "bidClose": 1.1025,
+            "bidHigh": 1.102,
+            "bidLow": 1.102,
+            "bidOpen": 1.102,
+            "date": "2023-01-23T18:32:25.000Z",
+            "volume": 5887
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1034,
+            "bidLow": 1.1017,
+            "bidOpen": 1.1025,
+            "date": "2023-01-24T18:32:25.000Z",
+            "volume": 12861
+        },
+        {
+            "bidClose": 1.1023,
+            "bidHigh": 1.1033,
+            "bidLow": 1.1022,
+            "bidOpen": 1.1033,
+            "date": "2023-01-25T18:32:25.000Z",
+            "volume": 8473
+        },
+        {
+            "bidClose": 1.102,
+            "bidHigh": 1.1025,
+            "bidLow": 1.1018,
+            "bidOpen": 1.1023,
+            "date": "2023-01-26T18:32:25.000Z",
+            "volume": 1946
+        },
+        {
+            "bidClose": 1.103,
+            "bidHigh": 1.1032,
+            "bidLow": 1.1011,
+            "bidOpen": 1.102,
+            "date": "2023-01-27T18:32:25.000Z",
+            "volume": 2460
+        },
+        {
+            "bidClose": 1.1019,
+            "bidHigh": 1.1034,
+            "bidLow": 1.1024,
+            "bidOpen": 1.103,
+            "date": "2023-01-28T18:32:25.000Z",
+            "volume": 10796
+        },
+        {
+            "bidClose": 1.1026,
+            "bidHigh": 1.1028,
+            "bidLow": 1.1016,
+            "bidOpen": 1.1019,
+            "date": "2023-01-29T18:32:25.000Z",
+            "volume": 1507
+        },
+        {
+            "bidClose": 1.102,
+            "bidHigh": 1.1032,
+            "bidLow": 1.1026,
+            "bidOpen": 1.1026,
+            "date": "2023-01-30T18:32:25.000Z",
+            "volume": 5636
+        },
+        {
+            "bidClose": 1.1014,
+            "bidHigh": 1.1022,
+            "bidLow": 1.1016,
+            "bidOpen": 1.102,
+            "date": "2023-01-31T18:32:25.000Z",
+            "volume": 14108
+        },
+        {
+            "bidClose": 1.1024,
+            "bidHigh": 1.1026,
+            "bidLow": 1.1006,
+            "bidOpen": 1.1014,
+            "date": "2023-02-01T18:32:25.000Z",
+            "volume": 6867
+        },
+        {
+            "bidClose": 1.1027,
+            "bidHigh": 1.1035,
+            "bidLow": 1.1012,
+            "bidOpen": 1.1024,
+            "date": "2023-02-02T18:32:25.000Z",
+            "volume": 5830
+        },
+        {
+            "bidClose": 1.1036,
+            "bidHigh": 1.1037,
+            "bidLow": 1.1024,
+            "bidOpen": 1.1027,
+            "date": "2023-02-03T18:32:25.000Z",
+            "volume": 2676
+        },
+        {
+            "bidClose": 1.1037,
+            "bidHigh": 1.1041,
+            "bidLow": 1.1024,
+            "bidOpen": 1.1036,
+            "date": "2023-02-04T18:32:25.000Z",
+            "volume": 1736
+        },
+        {
+            "bidClose": 1.1036,
+            "bidHigh": 1.1049,
+            "bidLow": 1.1029,
+            "bidOpen": 1.1037,
+            "date": "2023-02-05T18:32:25.000Z",
+            "volume": 2570
+        },
+        {
+            "bidClose": 1.1038,
+            "bidHigh": 1.1049,
+            "bidLow": 1.1035,
+            "bidOpen": 1.1036,
+            "date": "2023-02-06T18:32:25.000Z",
+            "volume": 1908
+        },
+        {
+            "bidClose": 1.1042,
+            "bidHigh": 1.105,
+            "bidLow": 1.103,
+            "bidOpen": 1.1038,
+            "date": "2023-02-07T18:32:25.000Z",
+            "volume": 9659
+        },
+        {
+            "bidClose": 1.1048,
+            "bidHigh": 1.1052,
+            "bidLow": 1.1039,
+            "bidOpen": 1.1042,
+            "date": "2023-02-08T18:32:25.000Z",
+            "volume": 10102
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1056,
+            "bidLow": 1.104,
+            "bidOpen": 1.1048,
+            "date": "2023-02-09T18:32:25.000Z",
+            "volume": 13617
+        },
+        {
+            "bidClose": 1.1039,
+            "bidHigh": 1.105,
+            "bidLow": 1.1035,
+            "bidOpen": 1.1043,
+            "date": "2023-02-10T18:32:25.000Z",
+            "volume": 2803
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1049,
+            "bidLow": 1.1031,
+            "bidOpen": 1.1039,
+            "date": "2023-02-11T18:32:25.000Z",
+            "volume": 7711
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1036,
+            "bidLow": 1.1024,
+            "bidOpen": 1.1033,
+            "date": "2023-02-12T18:32:25.000Z",
+            "volume": 439
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1043,
+            "bidLow": 1.1037,
+            "bidOpen": 1.1043,
+            "date": "2023-02-13T18:32:25.000Z",
+            "volume": 1264
+        },
+        {
+            "bidClose": 1.1034,
+            "bidHigh": 1.1047,
+            "bidLow": 1.1037,
+            "bidOpen": 1.1043,
+            "date": "2023-02-14T18:32:25.000Z",
+            "volume": 3809
+        },
+        {
+            "bidClose": 1.104,
+            "bidHigh": 1.1045,
+            "bidLow": 1.1028,
+            "bidOpen": 1.1034,
+            "date": "2023-02-15T18:32:25.000Z",
+            "volume": 3748
+        },
+        {
+            "bidClose": 1.1051,
+            "bidHigh": 1.104,
+            "bidLow": 1.1034,
+            "bidOpen": 1.104,
+            "date": "2023-02-16T18:32:25.000Z",
+            "volume": 11083
+        },
+        {
+            "bidClose": 1.1051,
+            "bidHigh": 1.1055,
+            "bidLow": 1.104,
+            "bidOpen": 1.1051,
+            "date": "2023-02-17T18:32:25.000Z",
+            "volume": 1701
+        },
+        {
+            "bidClose": 1.1056,
+            "bidHigh": 1.1059,
+            "bidLow": 1.1045,
+            "bidOpen": 1.1051,
+            "date": "2023-02-18T18:32:25.000Z",
+            "volume": 10453
+        },
+        {
+            "bidClose": 1.1045,
+            "bidHigh": 1.1065,
+            "bidLow": 1.105,
+            "bidOpen": 1.1056,
+            "date": "2023-02-19T18:32:25.000Z",
+            "volume": 6515
+        },
+        {
+            "bidClose": 1.1044,
+            "bidHigh": 1.1047,
+            "bidLow": 1.1035,
+            "bidOpen": 1.1045,
+            "date": "2023-02-20T18:32:25.000Z",
+            "volume": 4377
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1046,
+            "bidLow": 1.1038,
+            "bidOpen": 1.1044,
+            "date": "2023-02-21T18:32:25.000Z",
+            "volume": 3368
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1053,
+            "bidLow": 1.104,
+            "bidOpen": 1.1046,
+            "date": "2023-02-22T18:32:25.000Z",
+            "volume": 2011
+        },
+        {
+            "bidClose": 1.1048,
+            "bidHigh": 1.1056,
+            "bidLow": 1.1051,
+            "bidOpen": 1.1055,
+            "date": "2023-02-23T18:32:25.000Z",
+            "volume": 4040
+        },
+        {
+            "bidClose": 1.1049,
+            "bidHigh": 1.105,
+            "bidLow": 1.1045,
+            "bidOpen": 1.1048,
+            "date": "2023-02-24T18:32:25.000Z",
+            "volume": 4339
+        },
+        {
+            "bidClose": 1.1054,
+            "bidHigh": 1.1059,
+            "bidLow": 1.1044,
+            "bidOpen": 1.1049,
+            "date": "2023-02-25T18:32:25.000Z",
+            "volume": 7123
+        },
+        {
+            "bidClose": 1.1061,
+            "bidHigh": 1.106,
+            "bidLow": 1.1047,
+            "bidOpen": 1.1054,
+            "date": "2023-02-26T18:32:25.000Z",
+            "volume": 5227
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1063,
+            "bidLow": 1.105,
+            "bidOpen": 1.1061,
+            "date": "2023-02-27T18:32:25.000Z",
+            "volume": 1408
+        },
+        {
+            "bidClose": 1.1075,
+            "bidHigh": 1.1073,
+            "bidLow": 1.106,
+            "bidOpen": 1.1062,
+            "date": "2023-02-28T18:32:25.000Z",
+            "volume": 3002
+        },
+        {
+            "bidClose": 1.1063,
+            "bidHigh": 1.1076,
+            "bidLow": 1.1068,
+            "bidOpen": 1.1075,
+            "date": "2023-03-01T18:32:25.000Z",
+            "volume": 18310
+        },
+        {
+            "bidClose": 1.1073,
+            "bidHigh": 1.1071,
+            "bidLow": 1.1057,
+            "bidOpen": 1.1063,
+            "date": "2023-03-02T18:32:25.000Z",
+            "volume": 6683
+        },
+        {
+            "bidClose": 1.1061,
+            "bidHigh": 1.1079,
+            "bidLow": 1.1072,
+            "bidOpen": 1.1073,
+            "date": "2023-03-03T18:32:25.000Z",
+            "volume": 4489
+        },
+        {
+            "bidClose": 1.1065,
+            "bidHigh": 1.1073,
+            "bidLow": 1.106,
+            "bidOpen": 1.1061,
+            "date": "2023-03-04T18:32:25.000Z",
+            "volume": 524
+        },
+        {
+            "bidClose": 1.1071,
+            "bidHigh": 1.1074,
+            "bidLow": 1.1053,
+            "bidOpen": 1.1065,
+            "date": "2023-03-05T18:32:25.000Z",
+            "volume": 1264
+        },
+        {
+            "bidClose": 1.1079,
+            "bidHigh": 1.1084,
+            "bidLow": 1.1064,
+            "bidOpen": 1.1071,
+            "date": "2023-03-06T18:32:25.000Z",
+            "volume": 1144
+        },
+        {
+            "bidClose": 1.1089,
+            "bidHigh": 1.1081,
+            "bidLow": 1.1076,
+            "bidOpen": 1.1079,
+            "date": "2023-03-07T18:32:25.000Z",
+            "volume": 5073
+        },
+        {
+            "bidClose": 1.1099,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1077,
+            "bidOpen": 1.1089,
+            "date": "2023-03-08T18:32:25.000Z",
+            "volume": 9192
+        },
+        {
+            "bidClose": 1.1099,
+            "bidHigh": 1.1107,
+            "bidLow": 1.1098,
+            "bidOpen": 1.1099,
+            "date": "2023-03-09T18:32:25.000Z",
+            "volume": 6773
+        },
+        {
+            "bidClose": 1.1099,
+            "bidHigh": 1.1103,
+            "bidLow": 1.1091,
+            "bidOpen": 1.1099,
+            "date": "2023-03-10T18:32:25.000Z",
+            "volume": 8551
+        },
+        {
+            "bidClose": 1.1102,
+            "bidHigh": 1.1105,
+            "bidLow": 1.1095,
+            "bidOpen": 1.1099,
+            "date": "2023-03-11T18:32:25.000Z",
+            "volume": 15238
+        },
+        {
+            "bidClose": 1.1093,
+            "bidHigh": 1.1113,
+            "bidLow": 1.1092,
+            "bidOpen": 1.1102,
+            "date": "2023-03-12T18:32:25.000Z",
+            "volume": 8899
+        },
+        {
+            "bidClose": 1.1095,
+            "bidHigh": 1.1093,
+            "bidLow": 1.1086,
+            "bidOpen": 1.1093,
+            "date": "2023-03-13T18:32:25.000Z",
+            "volume": 2107
+        },
+        {
+            "bidClose": 1.1099,
+            "bidHigh": 1.1099,
+            "bidLow": 1.1094,
+            "bidOpen": 1.1095,
+            "date": "2023-03-14T18:32:25.000Z",
+            "volume": 4022
+        },
+        {
+            "bidClose": 1.1101,
+            "bidHigh": 1.1105,
+            "bidLow": 1.1088,
+            "bidOpen": 1.1099,
+            "date": "2023-03-15T18:32:25.000Z",
+            "volume": 7037
+        },
+        {
+            "bidClose": 1.1101,
+            "bidHigh": 1.1109,
+            "bidLow": 1.1095,
+            "bidOpen": 1.1101,
+            "date": "2023-03-16T18:32:25.000Z",
+            "volume": 992
+        },
+        {
+            "bidClose": 1.1091,
+            "bidHigh": 1.1105,
+            "bidLow": 1.1095,
+            "bidOpen": 1.1101,
+            "date": "2023-03-17T18:32:25.000Z",
+            "volume": 7559
+        },
+        {
+            "bidClose": 1.108,
+            "bidHigh": 1.1104,
+            "bidLow": 1.1085,
+            "bidOpen": 1.1091,
+            "date": "2023-03-18T18:32:25.000Z",
+            "volume": 9146
+        },
+        {
+            "bidClose": 1.1083,
+            "bidHigh": 1.1082,
+            "bidLow": 1.1073,
+            "bidOpen": 1.108,
+            "date": "2023-03-19T18:32:25.000Z",
+            "volume": 4873
+        },
+        {
+            "bidClose": 1.1078,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1075,
+            "bidOpen": 1.1083,
+            "date": "2023-03-20T18:32:25.000Z",
+            "volume": 6649
+        },
+        {
+            "bidClose": 1.1084,
+            "bidHigh": 1.1082,
+            "bidLow": 1.1068,
+            "bidOpen": 1.1078,
+            "date": "2023-03-21T18:32:25.000Z",
+            "volume": 5778
+        },
+        {
+            "bidClose": 1.1087,
+            "bidHigh": 1.1085,
+            "bidLow": 1.1079,
+            "bidOpen": 1.1084,
+            "date": "2023-03-22T18:32:25.000Z",
+            "volume": 5620
+        },
+        {
+            "bidClose": 1.1077,
+            "bidHigh": 1.1089,
+            "bidLow": 1.1078,
+            "bidOpen": 1.1087,
+            "date": "2023-03-23T18:32:25.000Z",
+            "volume": 1512
+        },
+        {
+            "bidClose": 1.1069,
+            "bidHigh": 1.1087,
+            "bidLow": 1.1071,
+            "bidOpen": 1.1077,
+            "date": "2023-03-24T18:32:25.000Z",
+            "volume": 1515
+        },
+        {
+            "bidClose": 1.1069,
+            "bidHigh": 1.1076,
+            "bidLow": 1.1068,
+            "bidOpen": 1.1069,
+            "date": "2023-03-25T18:32:25.000Z",
+            "volume": 5290
+        },
+        {
+            "bidClose": 1.1074,
+            "bidHigh": 1.1081,
+            "bidLow": 1.1057,
+            "bidOpen": 1.1069,
+            "date": "2023-03-26T18:32:25.000Z",
+            "volume": 6202
+        },
+        {
+            "bidClose": 1.1064,
+            "bidHigh": 1.1085,
+            "bidLow": 1.1061,
+            "bidOpen": 1.1074,
+            "date": "2023-03-27T18:32:25.000Z",
+            "volume": 7037
+        },
+        {
+            "bidClose": 1.106,
+            "bidHigh": 1.1076,
+            "bidLow": 1.1064,
+            "bidOpen": 1.1064,
+            "date": "2023-03-28T18:32:25.000Z",
+            "volume": 5704
+        },
+        {
+            "bidClose": 1.1049,
+            "bidHigh": 1.1072,
+            "bidLow": 1.1056,
+            "bidOpen": 1.106,
+            "date": "2023-03-29T18:32:25.000Z",
+            "volume": 2832
+        },
+        {
+            "bidClose": 1.1045,
+            "bidHigh": 1.106,
+            "bidLow": 1.1043,
+            "bidOpen": 1.1049,
+            "date": "2023-03-30T18:32:25.000Z",
+            "volume": 8023
+        },
+        {
+            "bidClose": 1.1054,
+            "bidHigh": 1.1058,
+            "bidLow": 1.1043,
+            "bidOpen": 1.1045,
+            "date": "2023-03-31T18:32:25.000Z",
+            "volume": 6728
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1065,
+            "bidLow": 1.1047,
+            "bidOpen": 1.1054,
+            "date": "2023-04-01T18:32:25.000Z",
+            "volume": 1447
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1044,
+            "bidLow": 1.1033,
+            "bidOpen": 1.1043,
+            "date": "2023-04-02T18:32:25.000Z",
+            "volume": 4916
+        },
+        {
+            "bidClose": 1.1039,
+            "bidHigh": 1.1048,
+            "bidLow": 1.1031,
+            "bidOpen": 1.1043,
+            "date": "2023-04-03T18:32:25.000Z",
+            "volume": 4287
+        },
+        {
+            "bidClose": 1.1047,
+            "bidHigh": 1.1051,
+            "bidLow": 1.1027,
+            "bidOpen": 1.1039,
+            "date": "2023-04-04T18:32:25.000Z",
+            "volume": 562
+        },
+        {
+            "bidClose": 1.1038,
+            "bidHigh": 1.1048,
+            "bidLow": 1.1046,
+            "bidOpen": 1.1047,
+            "date": "2023-04-05T18:32:25.000Z",
+            "volume": 8588
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1043,
+            "bidLow": 1.1031,
+            "bidOpen": 1.1038,
+            "date": "2023-04-06T18:32:25.000Z",
+            "volume": 5008
+        },
+        {
+            "bidClose": 1.1053,
+            "bidHigh": 1.105,
+            "bidLow": 1.1044,
+            "bidOpen": 1.1046,
+            "date": "2023-04-07T18:32:25.000Z",
+            "volume": 7760
+        },
+        {
+            "bidClose": 1.1056,
+            "bidHigh": 1.1063,
+            "bidLow": 1.1043,
+            "bidOpen": 1.1053,
+            "date": "2023-04-08T18:32:25.000Z",
+            "volume": 778
+        },
+        {
+            "bidClose": 1.1058,
+            "bidHigh": 1.1067,
+            "bidLow": 1.1055,
+            "bidOpen": 1.1056,
+            "date": "2023-04-09T18:32:25.000Z",
+            "volume": 4705
+        },
+        {
+            "bidClose": 1.1051,
+            "bidHigh": 1.1063,
+            "bidLow": 1.1049,
+            "bidOpen": 1.1058,
+            "date": "2023-04-10T18:32:25.000Z",
+            "volume": 135
+        },
+        {
+            "bidClose": 1.1052,
+            "bidHigh": 1.1062,
+            "bidLow": 1.1045,
+            "bidOpen": 1.1051,
+            "date": "2023-04-11T18:32:25.000Z",
+            "volume": 1558
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1055,
+            "bidLow": 1.1045,
+            "bidOpen": 1.1052,
+            "date": "2023-04-12T18:32:25.000Z",
+            "volume": 7164
+        },
+        {
+            "bidClose": 1.1039,
+            "bidHigh": 1.1047,
+            "bidLow": 1.1046,
+            "bidOpen": 1.1046,
+            "date": "2023-04-13T18:32:25.000Z",
+            "volume": 1974
+        },
+        {
+            "bidClose": 1.1051,
+            "bidHigh": 1.1048,
+            "bidLow": 1.1039,
+            "bidOpen": 1.1039,
+            "date": "2023-04-14T18:32:25.000Z",
+            "volume": 9328
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1061,
+            "bidLow": 1.1042,
+            "bidOpen": 1.1051,
+            "date": "2023-04-15T18:32:25.000Z",
+            "volume": 3123
+        },
+        {
+            "bidClose": 1.1042,
+            "bidHigh": 1.1045,
+            "bidLow": 1.1033,
+            "bidOpen": 1.1043,
+            "date": "2023-04-16T18:32:25.000Z",
+            "volume": 1329
+        },
+        {
+            "bidClose": 1.1052,
+            "bidHigh": 1.1048,
+            "bidLow": 1.1039,
+            "bidOpen": 1.1042,
+            "date": "2023-04-17T18:32:25.000Z",
+            "volume": 758
+        },
+        {
+            "bidClose": 1.1059,
+            "bidHigh": 1.1053,
+            "bidLow": 1.1044,
+            "bidOpen": 1.1052,
+            "date": "2023-04-18T18:32:25.000Z",
+            "volume": 2656
+        },
+        {
+            "bidClose": 1.1065,
+            "bidHigh": 1.1064,
+            "bidLow": 1.1047,
+            "bidOpen": 1.1059,
+            "date": "2023-04-19T18:32:25.000Z",
+            "volume": 12031
+        },
+        {
+            "bidClose": 1.1075,
+            "bidHigh": 1.1076,
+            "bidLow": 1.1052,
+            "bidOpen": 1.1065,
+            "date": "2023-04-20T18:32:25.000Z",
+            "volume": 806
+        },
+        {
+            "bidClose": 1.1067,
+            "bidHigh": 1.1087,
+            "bidLow": 1.1066,
+            "bidOpen": 1.1075,
+            "date": "2023-04-21T18:32:25.000Z",
+            "volume": 7618
+        },
+        {
+            "bidClose": 1.1072,
+            "bidHigh": 1.107,
+            "bidLow": 1.1054,
+            "bidOpen": 1.1067,
+            "date": "2023-04-22T18:32:25.000Z",
+            "volume": 9349
+        },
+        {
+            "bidClose": 1.1077,
+            "bidHigh": 1.1074,
+            "bidLow": 1.1061,
+            "bidOpen": 1.1072,
+            "date": "2023-04-23T18:32:25.000Z",
+            "volume": 16136
+        },
+        {
+            "bidClose": 1.1069,
+            "bidHigh": 1.1084,
+            "bidLow": 1.1073,
+            "bidOpen": 1.1077,
+            "date": "2023-04-24T18:32:25.000Z",
+            "volume": 9251
+        },
+        {
+            "bidClose": 1.1081,
+            "bidHigh": 1.1077,
+            "bidLow": 1.1068,
+            "bidOpen": 1.1069,
+            "date": "2023-04-25T18:32:25.000Z",
+            "volume": 8040
+        },
+        {
+            "bidClose": 1.1089,
+            "bidHigh": 1.1086,
+            "bidLow": 1.1074,
+            "bidOpen": 1.1081,
+            "date": "2023-04-26T18:32:25.000Z",
+            "volume": 5442
+        },
+        {
+            "bidClose": 1.1082,
+            "bidHigh": 1.1098,
+            "bidLow": 1.1087,
+            "bidOpen": 1.1089,
+            "date": "2023-04-27T18:32:25.000Z",
+            "volume": 4485
+        },
+        {
+            "bidClose": 1.1084,
+            "bidHigh": 1.1094,
+            "bidLow": 1.1081,
+            "bidOpen": 1.1082,
+            "date": "2023-04-28T18:32:25.000Z",
+            "volume": 4906
+        },
+        {
+            "bidClose": 1.1089,
+            "bidHigh": 1.1094,
+            "bidLow": 1.1075,
+            "bidOpen": 1.1084,
+            "date": "2023-04-29T18:32:25.000Z",
+            "volume": 12092
+        },
+        {
+            "bidClose": 1.1089,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1079,
+            "bidOpen": 1.1089,
+            "date": "2023-04-30T18:32:25.000Z",
+            "volume": 967
+        },
+        {
+            "bidClose": 1.1089,
+            "bidHigh": 1.1102,
+            "bidLow": 1.1078,
+            "bidOpen": 1.1089,
+            "date": "2023-05-01T18:32:25.000Z",
+            "volume": 7819
+        },
+        {
+            "bidClose": 1.108,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1085,
+            "bidOpen": 1.1089,
+            "date": "2023-05-02T18:32:25.000Z",
+            "volume": 9478
+        },
+        {
+            "bidClose": 1.1085,
+            "bidHigh": 1.1085,
+            "bidLow": 1.1078,
+            "bidOpen": 1.108,
+            "date": "2023-05-03T18:32:25.000Z",
+            "volume": 8011
+        },
+        {
+            "bidClose": 1.1073,
+            "bidHigh": 1.109,
+            "bidLow": 1.1083,
+            "bidOpen": 1.1085,
+            "date": "2023-05-04T18:32:25.000Z",
+            "volume": 2166
+        },
+        {
+            "bidClose": 1.1069,
+            "bidHigh": 1.1073,
+            "bidLow": 1.1066,
+            "bidOpen": 1.1073,
+            "date": "2023-05-05T18:32:25.000Z",
+            "volume": 11359
+        },
+        {
+            "bidClose": 1.107,
+            "bidHigh": 1.107,
+            "bidLow": 1.1064,
+            "bidOpen": 1.1069,
+            "date": "2023-05-06T18:32:25.000Z",
+            "volume": 3260
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1073,
+            "bidLow": 1.1067,
+            "bidOpen": 1.107,
+            "date": "2023-05-07T18:32:25.000Z",
+            "volume": 7839
+        },
+        {
+            "bidClose": 1.1071,
+            "bidHigh": 1.1067,
+            "bidLow": 1.1058,
+            "bidOpen": 1.1062,
+            "date": "2023-05-08T18:32:25.000Z",
+            "volume": 10117
+        },
+        {
+            "bidClose": 1.1066,
+            "bidHigh": 1.1079,
+            "bidLow": 1.1067,
+            "bidOpen": 1.1071,
+            "date": "2023-05-09T18:32:25.000Z",
+            "volume": 9005
+        },
+        {
+            "bidClose": 1.1069,
+            "bidHigh": 1.1073,
+            "bidLow": 1.1066,
+            "bidOpen": 1.1066,
+            "date": "2023-05-10T18:32:25.000Z",
+            "volume": 4116
+        },
+        {
+            "bidClose": 1.1057,
+            "bidHigh": 1.1073,
+            "bidLow": 1.1066,
+            "bidOpen": 1.1069,
+            "date": "2023-05-11T18:32:25.000Z",
+            "volume": 170
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1062,
+            "bidLow": 1.1055,
+            "bidOpen": 1.1057,
+            "date": "2023-05-12T18:32:25.000Z",
+            "volume": 595
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1055,
+            "bidLow": 1.1049,
+            "bidOpen": 1.1055,
+            "date": "2023-05-13T18:32:25.000Z",
+            "volume": 14783
+        },
+        {
+            "bidClose": 1.1066,
+            "bidHigh": 1.1063,
+            "bidLow": 1.1052,
+            "bidOpen": 1.1055,
+            "date": "2023-05-14T18:32:25.000Z",
+            "volume": 13492
+        },
+        {
+            "bidClose": 1.1066,
+            "bidHigh": 1.1073,
+            "bidLow": 1.106,
+            "bidOpen": 1.1066,
+            "date": "2023-05-15T18:32:25.000Z",
+            "volume": 1713
+        },
+        {
+            "bidClose": 1.1068,
+            "bidHigh": 1.1077,
+            "bidLow": 1.1056,
+            "bidOpen": 1.1066,
+            "date": "2023-05-16T18:32:25.000Z",
+            "volume": 3011
+        },
+        {
+            "bidClose": 1.1078,
+            "bidHigh": 1.1073,
+            "bidLow": 1.1059,
+            "bidOpen": 1.1068,
+            "date": "2023-05-17T18:32:25.000Z",
+            "volume": 1401
+        },
+        {
+            "bidClose": 1.1074,
+            "bidHigh": 1.1079,
+            "bidLow": 1.107,
+            "bidOpen": 1.1078,
+            "date": "2023-05-18T18:32:25.000Z",
+            "volume": 10921
+        },
+        {
+            "bidClose": 1.1082,
+            "bidHigh": 1.1082,
+            "bidLow": 1.1063,
+            "bidOpen": 1.1074,
+            "date": "2023-05-19T18:32:25.000Z",
+            "volume": 1202
+        },
+        {
+            "bidClose": 1.1086,
+            "bidHigh": 1.1086,
+            "bidLow": 1.1071,
+            "bidOpen": 1.1082,
+            "date": "2023-05-20T18:32:25.000Z",
+            "volume": 4409
+        },
+        {
+            "bidClose": 1.1091,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1081,
+            "bidOpen": 1.1086,
+            "date": "2023-05-21T18:32:25.000Z",
+            "volume": 3343
+        },
+        {
+            "bidClose": 1.108,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1085,
+            "bidOpen": 1.1091,
+            "date": "2023-05-22T18:32:25.000Z",
+            "volume": 4854
+        },
+        {
+            "bidClose": 1.1083,
+            "bidHigh": 1.1089,
+            "bidLow": 1.1069,
+            "bidOpen": 1.108,
+            "date": "2023-05-23T18:32:25.000Z",
+            "volume": 3918
+        },
+        {
+            "bidClose": 1.1088,
+            "bidHigh": 1.1087,
+            "bidLow": 1.1078,
+            "bidOpen": 1.1083,
+            "date": "2023-05-24T18:32:25.000Z",
+            "volume": 5159
+        },
+        {
+            "bidClose": 1.1091,
+            "bidHigh": 1.1089,
+            "bidLow": 1.1088,
+            "bidOpen": 1.1088,
+            "date": "2023-05-25T18:32:25.000Z",
+            "volume": 1028
+        },
+        {
+            "bidClose": 1.1081,
+            "bidHigh": 1.1099,
+            "bidLow": 1.1081,
+            "bidOpen": 1.1091,
+            "date": "2023-05-26T18:32:25.000Z",
+            "volume": 5737
+        },
+        {
+            "bidClose": 1.1076,
+            "bidHigh": 1.1082,
+            "bidLow": 1.1077,
+            "bidOpen": 1.1081,
+            "date": "2023-05-27T18:32:25.000Z",
+            "volume": 1413
+        },
+        {
+            "bidClose": 1.1068,
+            "bidHigh": 1.1086,
+            "bidLow": 1.1072,
+            "bidOpen": 1.1076,
+            "date": "2023-05-28T18:32:25.000Z",
+            "volume": 1784
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1069,
+            "bidLow": 1.1066,
+            "bidOpen": 1.1068,
+            "date": "2023-05-29T18:32:25.000Z",
+            "volume": 8652
+        },
+        {
+            "bidClose": 1.1053,
+            "bidHigh": 1.1064,
+            "bidLow": 1.1059,
+            "bidOpen": 1.1062,
+            "date": "2023-05-30T18:32:25.000Z",
+            "volume": 5843
+        },
+        {
+            "bidClose": 1.1059,
+            "bidHigh": 1.1061,
+            "bidLow": 1.1042,
+            "bidOpen": 1.1053,
+            "date": "2023-05-31T18:32:25.000Z",
+            "volume": 3959
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1069,
+            "bidLow": 1.1053,
+            "bidOpen": 1.1059,
+            "date": "2023-06-01T18:32:25.000Z",
+            "volume": 95
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1063,
+            "bidLow": 1.1054,
+            "bidOpen": 1.1055,
+            "date": "2023-06-02T18:32:25.000Z",
+            "volume": 2458
+        },
+        {
+            "bidClose": 1.1042,
+            "bidHigh": 1.1052,
+            "bidLow": 1.104,
+            "bidOpen": 1.1046,
+            "date": "2023-06-03T18:32:25.000Z",
+            "volume": 5629
+        },
+        {
+            "bidClose": 1.1037,
+            "bidHigh": 1.1045,
+            "bidLow": 1.1031,
+            "bidOpen": 1.1042,
+            "date": "2023-06-04T18:32:25.000Z",
+            "volume": 12812
+        },
+        {
+            "bidClose": 1.1048,
+            "bidHigh": 1.1044,
+            "bidLow": 1.1034,
+            "bidOpen": 1.1037,
+            "date": "2023-06-05T18:32:25.000Z",
+            "volume": 811
+        },
+        {
+            "bidClose": 1.1056,
+            "bidHigh": 1.106,
+            "bidLow": 1.1045,
+            "bidOpen": 1.1048,
+            "date": "2023-06-06T18:32:25.000Z",
+            "volume": 2251
+        },
+        {
+            "bidClose": 1.1056,
+            "bidHigh": 1.1064,
+            "bidLow": 1.1054,
+            "bidOpen": 1.1056,
+            "date": "2023-06-07T18:32:25.000Z",
+            "volume": 12494
+        },
+        {
+            "bidClose": 1.1059,
+            "bidHigh": 1.1057,
+            "bidLow": 1.1054,
+            "bidOpen": 1.1056,
+            "date": "2023-06-08T18:32:25.000Z",
+            "volume": 1522
+        },
+        {
+            "bidClose": 1.1047,
+            "bidHigh": 1.1064,
+            "bidLow": 1.1058,
+            "bidOpen": 1.1059,
+            "date": "2023-06-09T18:32:25.000Z",
+            "volume": 8775
+        },
+        {
+            "bidClose": 1.1038,
+            "bidHigh": 1.1051,
+            "bidLow": 1.1044,
+            "bidOpen": 1.1047,
+            "date": "2023-06-10T18:32:25.000Z",
+            "volume": 5508
+        },
+        {
+            "bidClose": 1.1028,
+            "bidHigh": 1.1045,
+            "bidLow": 1.1037,
+            "bidOpen": 1.1038,
+            "date": "2023-06-11T18:32:25.000Z",
+            "volume": 2315
+        },
+        {
+            "bidClose": 1.1031,
+            "bidHigh": 1.1029,
+            "bidLow": 1.102,
+            "bidOpen": 1.1028,
+            "date": "2023-06-12T18:32:25.000Z",
+            "volume": 3441
+        },
+        {
+            "bidClose": 1.1022,
+            "bidHigh": 1.1031,
+            "bidLow": 1.1021,
+            "bidOpen": 1.1031,
+            "date": "2023-06-13T18:32:25.000Z",
+            "volume": 7597
+        },
+        {
+            "bidClose": 1.1013,
+            "bidHigh": 1.1027,
+            "bidLow": 1.101,
+            "bidOpen": 1.1022,
+            "date": "2023-06-14T18:32:25.000Z",
+            "volume": 3869
+        },
+        {
+            "bidClose": 1.1025,
+            "bidHigh": 1.1015,
+            "bidLow": 1.1004,
+            "bidOpen": 1.1013,
+            "date": "2023-06-15T18:32:25.000Z",
+            "volume": 3418
+        },
+        {
+            "bidClose": 1.1025,
+            "bidHigh": 1.1037,
+            "bidLow": 1.1024,
+            "bidOpen": 1.1025,
+            "date": "2023-06-16T18:32:25.000Z",
+            "volume": 1397
+        },
+        {
+            "bidClose": 1.1027,
+            "bidHigh": 1.103,
+            "bidLow": 1.1025,
+            "bidOpen": 1.1025,
+            "date": "2023-06-17T18:32:25.000Z",
+            "volume": 5501
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1037,
+            "bidLow": 1.1022,
+            "bidOpen": 1.1027,
+            "date": "2023-06-18T18:32:25.000Z",
+            "volume": 1578
+        },
+        {
+            "bidClose": 1.1036,
+            "bidHigh": 1.1034,
+            "bidLow": 1.1023,
+            "bidOpen": 1.1033,
+            "date": "2023-06-19T18:32:25.000Z",
+            "volume": 13977
+        },
+        {
+            "bidClose": 1.1032,
+            "bidHigh": 1.1041,
+            "bidLow": 1.103,
+            "bidOpen": 1.1036,
+            "date": "2023-06-20T18:32:25.000Z",
+            "volume": 17777
+        },
+        {
+            "bidClose": 1.1032,
+            "bidHigh": 1.1044,
+            "bidLow": 1.103,
+            "bidOpen": 1.1032,
+            "date": "2023-06-21T18:32:25.000Z",
+            "volume": 11439
+        },
+        {
+            "bidClose": 1.1031,
+            "bidHigh": 1.1041,
+            "bidLow": 1.1026,
+            "bidOpen": 1.1032,
+            "date": "2023-06-22T18:32:25.000Z",
+            "volume": 8858
+        },
+        {
+            "bidClose": 1.1042,
+            "bidHigh": 1.1033,
+            "bidLow": 1.1022,
+            "bidOpen": 1.1031,
+            "date": "2023-06-23T18:32:25.000Z",
+            "volume": 5062
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1048,
+            "bidLow": 1.1038,
+            "bidOpen": 1.1042,
+            "date": "2023-06-24T18:32:25.000Z",
+            "volume": 8164
+        },
+        {
+            "bidClose": 1.105,
+            "bidHigh": 1.1052,
+            "bidLow": 1.1043,
+            "bidOpen": 1.1046,
+            "date": "2023-06-25T18:32:25.000Z",
+            "volume": 3133
+        },
+        {
+            "bidClose": 1.1061,
+            "bidHigh": 1.1056,
+            "bidLow": 1.1044,
+            "bidOpen": 1.105,
+            "date": "2023-06-26T18:32:25.000Z",
+            "volume": 8742
+        },
+        {
+            "bidClose": 1.1054,
+            "bidHigh": 1.1062,
+            "bidLow": 1.1058,
+            "bidOpen": 1.1061,
+            "date": "2023-06-27T18:32:25.000Z",
+            "volume": 9912
+        },
+        {
+            "bidClose": 1.105,
+            "bidHigh": 1.1062,
+            "bidLow": 1.1049,
+            "bidOpen": 1.1054,
+            "date": "2023-06-28T18:32:25.000Z",
+            "volume": 396
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1054,
+            "bidLow": 1.1043,
+            "bidOpen": 1.105,
+            "date": "2023-06-29T18:32:25.000Z",
+            "volume": 1025
+        },
+        {
+            "bidClose": 1.1052,
+            "bidHigh": 1.1056,
+            "bidLow": 1.1055,
+            "bidOpen": 1.1055,
+            "date": "2023-06-30T18:32:25.000Z",
+            "volume": 10068
+        },
+        {
+            "bidClose": 1.1053,
+            "bidHigh": 1.106,
+            "bidLow": 1.105,
+            "bidOpen": 1.1052,
+            "date": "2023-07-01T18:32:25.000Z",
+            "volume": 204
+        },
+        {
+            "bidClose": 1.1059,
+            "bidHigh": 1.1059,
+            "bidLow": 1.1053,
+            "bidOpen": 1.1053,
+            "date": "2023-07-02T18:32:25.000Z",
+            "volume": 3683
+        },
+        {
+            "bidClose": 1.1067,
+            "bidHigh": 1.106,
+            "bidLow": 1.1057,
+            "bidOpen": 1.1059,
+            "date": "2023-07-03T18:32:25.000Z",
+            "volume": 1829
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1074,
+            "bidLow": 1.1064,
+            "bidOpen": 1.1067,
+            "date": "2023-07-04T18:32:25.000Z",
+            "volume": 9989
+        },
+        {
+            "bidClose": 1.1049,
+            "bidHigh": 1.1069,
+            "bidLow": 1.1053,
+            "bidOpen": 1.1062,
+            "date": "2023-07-05T18:32:25.000Z",
+            "volume": 5692
+        },
+        {
+            "bidClose": 1.1038,
+            "bidHigh": 1.106,
+            "bidLow": 1.1041,
+            "bidOpen": 1.1049,
+            "date": "2023-07-06T18:32:25.000Z",
+            "volume": 5701
+        },
+        {
+            "bidClose": 1.1036,
+            "bidHigh": 1.1046,
+            "bidLow": 1.1029,
+            "bidOpen": 1.1038,
+            "date": "2023-07-07T18:32:25.000Z",
+            "volume": 8840
+        },
+        {
+            "bidClose": 1.1041,
+            "bidHigh": 1.1045,
+            "bidLow": 1.1032,
+            "bidOpen": 1.1036,
+            "date": "2023-07-08T18:32:25.000Z",
+            "volume": 3217
+        },
+        {
+            "bidClose": 1.105,
+            "bidHigh": 1.1052,
+            "bidLow": 1.1031,
+            "bidOpen": 1.1041,
+            "date": "2023-07-09T18:32:25.000Z",
+            "volume": 7283
+        },
+        {
+            "bidClose": 1.1054,
+            "bidHigh": 1.1058,
+            "bidLow": 1.1049,
+            "bidOpen": 1.105,
+            "date": "2023-07-10T18:32:25.000Z",
+            "volume": 1492
+        },
+        {
+            "bidClose": 1.1064,
+            "bidHigh": 1.1054,
+            "bidLow": 1.1049,
+            "bidOpen": 1.1054,
+            "date": "2023-07-11T18:32:25.000Z",
+            "volume": 17540
+        },
+        {
+            "bidClose": 1.1076,
+            "bidHigh": 1.1066,
+            "bidLow": 1.1057,
+            "bidOpen": 1.1064,
+            "date": "2023-07-12T18:32:25.000Z",
+            "volume": 3816
+        },
+        {
+            "bidClose": 1.1075,
+            "bidHigh": 1.1083,
+            "bidLow": 1.1073,
+            "bidOpen": 1.1076,
+            "date": "2023-07-13T18:32:25.000Z",
+            "volume": 84
+        },
+        {
+            "bidClose": 1.1071,
+            "bidHigh": 1.1084,
+            "bidLow": 1.1068,
+            "bidOpen": 1.1075,
+            "date": "2023-07-14T18:32:25.000Z",
+            "volume": 10795
+        },
+        {
+            "bidClose": 1.1068,
+            "bidHigh": 1.1078,
+            "bidLow": 1.1069,
+            "bidOpen": 1.1071,
+            "date": "2023-07-15T18:32:25.000Z",
+            "volume": 7652
+        },
+        {
+            "bidClose": 1.1074,
+            "bidHigh": 1.107,
+            "bidLow": 1.1055,
+            "bidOpen": 1.1068,
+            "date": "2023-07-16T18:32:25.000Z",
+            "volume": 3916
+        },
+        {
+            "bidClose": 1.1076,
+            "bidHigh": 1.1076,
+            "bidLow": 1.1066,
+            "bidOpen": 1.1074,
+            "date": "2023-07-17T18:32:25.000Z",
+            "volume": 11543
+        },
+        {
+            "bidClose": 1.1084,
+            "bidHigh": 1.1079,
+            "bidLow": 1.1065,
+            "bidOpen": 1.1076,
+            "date": "2023-07-18T18:32:25.000Z",
+            "volume": 2741
+        },
+        {
+            "bidClose": 1.1087,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1073,
+            "bidOpen": 1.1084,
+            "date": "2023-07-19T18:32:25.000Z",
+            "volume": 2000
+        },
+        {
+            "bidClose": 1.1086,
+            "bidHigh": 1.1093,
+            "bidLow": 1.1079,
+            "bidOpen": 1.1087,
+            "date": "2023-07-20T18:32:25.000Z",
+            "volume": 2251
+        },
+        {
+            "bidClose": 1.108,
+            "bidHigh": 1.1098,
+            "bidLow": 1.1075,
+            "bidOpen": 1.1086,
+            "date": "2023-07-21T18:32:25.000Z",
+            "volume": 14075
+        },
+        {
+            "bidClose": 1.1069,
+            "bidHigh": 1.1088,
+            "bidLow": 1.1071,
+            "bidOpen": 1.108,
+            "date": "2023-07-22T18:32:25.000Z",
+            "volume": 1150
+        },
+        {
+            "bidClose": 1.1058,
+            "bidHigh": 1.108,
+            "bidLow": 1.1062,
+            "bidOpen": 1.1069,
+            "date": "2023-07-23T18:32:25.000Z",
+            "volume": 3534
+        },
+        {
+            "bidClose": 1.106,
+            "bidHigh": 1.1069,
+            "bidLow": 1.1048,
+            "bidOpen": 1.1058,
+            "date": "2023-07-24T18:32:25.000Z",
+            "volume": 4010
+        },
+        {
+            "bidClose": 1.1072,
+            "bidHigh": 1.1073,
+            "bidLow": 1.1054,
+            "bidOpen": 1.106,
+            "date": "2023-07-25T18:32:25.000Z",
+            "volume": 15366
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1077,
+            "bidLow": 1.1061,
+            "bidOpen": 1.1072,
+            "date": "2023-07-26T18:32:25.000Z",
+            "volume": 5298
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1065,
+            "bidLow": 1.1058,
+            "bidOpen": 1.1062,
+            "date": "2023-07-27T18:32:25.000Z",
+            "volume": 1099
+        },
+        {
+            "bidClose": 1.1058,
+            "bidHigh": 1.1066,
+            "bidLow": 1.1053,
+            "bidOpen": 1.1062,
+            "date": "2023-07-28T18:32:25.000Z",
+            "volume": 4067
+        },
+        {
+            "bidClose": 1.105,
+            "bidHigh": 1.1059,
+            "bidLow": 1.1053,
+            "bidOpen": 1.1058,
+            "date": "2023-07-29T18:32:25.000Z",
+            "volume": 11382
+        },
+        {
+            "bidClose": 1.105,
+            "bidHigh": 1.1062,
+            "bidLow": 1.1046,
+            "bidOpen": 1.105,
+            "date": "2023-07-30T18:32:25.000Z",
+            "volume": 274
+        },
+        {
+            "bidClose": 1.1059,
+            "bidHigh": 1.1059,
+            "bidLow": 1.1044,
+            "bidOpen": 1.105,
+            "date": "2023-07-31T18:32:25.000Z",
+            "volume": 6196
+        },
+        {
+            "bidClose": 1.1053,
+            "bidHigh": 1.1069,
+            "bidLow": 1.1059,
+            "bidOpen": 1.1059,
+            "date": "2023-08-01T18:32:25.000Z",
+            "volume": 407
+        },
+        {
+            "bidClose": 1.1054,
+            "bidHigh": 1.1064,
+            "bidLow": 1.1049,
+            "bidOpen": 1.1053,
+            "date": "2023-08-02T18:32:25.000Z",
+            "volume": 7676
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1059,
+            "bidLow": 1.1049,
+            "bidOpen": 1.1054,
+            "date": "2023-08-03T18:32:25.000Z",
+            "volume": 5451
+        },
+        {
+            "bidClose": 1.1054,
+            "bidHigh": 1.1047,
+            "bidLow": 1.1031,
+            "bidOpen": 1.1043,
+            "date": "2023-08-04T18:32:25.000Z",
+            "volume": 4917
+        },
+        {
+            "bidClose": 1.1067,
+            "bidHigh": 1.1064,
+            "bidLow": 1.1051,
+            "bidOpen": 1.1054,
+            "date": "2023-08-05T18:32:25.000Z",
+            "volume": 180
+        },
+        {
+            "bidClose": 1.1078,
+            "bidHigh": 1.1072,
+            "bidLow": 1.1065,
+            "bidOpen": 1.1067,
+            "date": "2023-08-06T18:32:25.000Z",
+            "volume": 2796
+        },
+        {
+            "bidClose": 1.1082,
+            "bidHigh": 1.108,
+            "bidLow": 1.1075,
+            "bidOpen": 1.1078,
+            "date": "2023-08-07T18:32:25.000Z",
+            "volume": 7001
+        },
+        {
+            "bidClose": 1.1092,
+            "bidHigh": 1.1091,
+            "bidLow": 1.1073,
+            "bidOpen": 1.1082,
+            "date": "2023-08-08T18:32:25.000Z",
+            "volume": 1438
+        },
+        {
+            "bidClose": 1.1102,
+            "bidHigh": 1.1097,
+            "bidLow": 1.1088,
+            "bidOpen": 1.1092,
+            "date": "2023-08-09T18:32:25.000Z",
+            "volume": 15318
+        },
+        {
+            "bidClose": 1.1099,
+            "bidHigh": 1.111,
+            "bidLow": 1.1097,
+            "bidOpen": 1.1102,
+            "date": "2023-08-10T18:32:25.000Z",
+            "volume": 5220
+        },
+        {
+            "bidClose": 1.1092,
+            "bidHigh": 1.1104,
+            "bidLow": 1.1099,
+            "bidOpen": 1.1099,
+            "date": "2023-08-11T18:32:25.000Z",
+            "volume": 7650
+        },
+        {
+            "bidClose": 1.1081,
+            "bidHigh": 1.1104,
+            "bidLow": 1.1088,
+            "bidOpen": 1.1092,
+            "date": "2023-08-12T18:32:25.000Z",
+            "volume": 5764
+        },
+        {
+            "bidClose": 1.107,
+            "bidHigh": 1.1085,
+            "bidLow": 1.1071,
+            "bidOpen": 1.1081,
+            "date": "2023-08-13T18:32:25.000Z",
+            "volume": 4700
+        },
+        {
+            "bidClose": 1.1068,
+            "bidHigh": 1.1074,
+            "bidLow": 1.1058,
+            "bidOpen": 1.107,
+            "date": "2023-08-14T18:32:25.000Z",
+            "volume": 5639
+        },
+        {
+            "bidClose": 1.108,
+            "bidHigh": 1.1078,
+            "bidLow": 1.106,
+            "bidOpen": 1.1068,
+            "date": "2023-08-15T18:32:25.000Z",
+            "volume": 788
+        },
+        {
+            "bidClose": 1.1069,
+            "bidHigh": 1.108,
+            "bidLow": 1.107,
+            "bidOpen": 1.108,
+            "date": "2023-08-16T18:32:25.000Z",
+            "volume": 3276
+        },
+        {
+            "bidClose": 1.1074,
+            "bidHigh": 1.107,
+            "bidLow": 1.1066,
+            "bidOpen": 1.1069,
+            "date": "2023-08-17T18:32:25.000Z",
+            "volume": 2126
+        },
+        {
+            "bidClose": 1.1071,
+            "bidHigh": 1.1075,
+            "bidLow": 1.1072,
+            "bidOpen": 1.1074,
+            "date": "2023-08-18T18:32:25.000Z",
+            "volume": 10512
+        },
+        {
+            "bidClose": 1.1082,
+            "bidHigh": 1.1082,
+            "bidLow": 1.1069,
+            "bidOpen": 1.1071,
+            "date": "2023-08-19T18:32:25.000Z",
+            "volume": 7434
+        },
+        {
+            "bidClose": 1.1077,
+            "bidHigh": 1.1088,
+            "bidLow": 1.1078,
+            "bidOpen": 1.1082,
+            "date": "2023-08-20T18:32:25.000Z",
+            "volume": 6122
+        },
+        {
+            "bidClose": 1.109,
+            "bidHigh": 1.1077,
+            "bidLow": 1.1076,
+            "bidOpen": 1.1077,
+            "date": "2023-08-21T18:32:25.000Z",
+            "volume": 4687
+        },
+        {
+            "bidClose": 1.1095,
+            "bidHigh": 1.1096,
+            "bidLow": 1.108,
+            "bidOpen": 1.109,
+            "date": "2023-08-22T18:32:25.000Z",
+            "volume": 5894
+        },
+        {
+            "bidClose": 1.1092,
+            "bidHigh": 1.1097,
+            "bidLow": 1.1086,
+            "bidOpen": 1.1095,
+            "date": "2023-08-23T18:32:25.000Z",
+            "volume": 9994
+        },
+        {
+            "bidClose": 1.1095,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1088,
+            "bidOpen": 1.1092,
+            "date": "2023-08-24T18:32:25.000Z",
+            "volume": 9032
+        },
+        {
+            "bidClose": 1.1095,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1095,
+            "bidOpen": 1.1095,
+            "date": "2023-08-25T18:32:25.000Z",
+            "volume": 2657
+        },
+        {
+            "bidClose": 1.1092,
+            "bidHigh": 1.1102,
+            "bidLow": 1.1088,
+            "bidOpen": 1.1095,
+            "date": "2023-08-26T18:32:25.000Z",
+            "volume": 3889
+        },
+        {
+            "bidClose": 1.1094,
+            "bidHigh": 1.1098,
+            "bidLow": 1.1082,
+            "bidOpen": 1.1092,
+            "date": "2023-08-27T18:32:25.000Z",
+            "volume": 6887
+        },
+        {
+            "bidClose": 1.1086,
+            "bidHigh": 1.1106,
+            "bidLow": 1.1082,
+            "bidOpen": 1.1094,
+            "date": "2023-08-28T18:32:25.000Z",
+            "volume": 3751
+        },
+        {
+            "bidClose": 1.1083,
+            "bidHigh": 1.1092,
+            "bidLow": 1.1074,
+            "bidOpen": 1.1086,
+            "date": "2023-08-29T18:32:25.000Z",
+            "volume": 15009
+        },
+        {
+            "bidClose": 1.1079,
+            "bidHigh": 1.1092,
+            "bidLow": 1.1082,
+            "bidOpen": 1.1083,
+            "date": "2023-08-30T18:32:25.000Z",
+            "volume": 2790
+        },
+        {
+            "bidClose": 1.1074,
+            "bidHigh": 1.1085,
+            "bidLow": 1.1071,
+            "bidOpen": 1.1079,
+            "date": "2023-08-31T18:32:25.000Z",
+            "volume": 4010
+        },
+        {
+            "bidClose": 1.1067,
+            "bidHigh": 1.1076,
+            "bidLow": 1.1068,
+            "bidOpen": 1.1074,
+            "date": "2023-09-01T18:32:25.000Z",
+            "volume": 3897
+        },
+        {
+            "bidClose": 1.1073,
+            "bidHigh": 1.1069,
+            "bidLow": 1.1062,
+            "bidOpen": 1.1067,
+            "date": "2023-09-02T18:32:25.000Z",
+            "volume": 10753
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1083,
+            "bidLow": 1.1069,
+            "bidOpen": 1.1073,
+            "date": "2023-09-03T18:32:25.000Z",
+            "volume": 7072
+        },
+        {
+            "bidClose": 1.1058,
+            "bidHigh": 1.1072,
+            "bidLow": 1.106,
+            "bidOpen": 1.1062,
+            "date": "2023-09-04T18:32:25.000Z",
+            "volume": 10667
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1064,
+            "bidLow": 1.1056,
+            "bidOpen": 1.1058,
+            "date": "2023-09-05T18:32:25.000Z",
+            "volume": 12329
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1052,
+            "bidLow": 1.1044,
+            "bidOpen": 1.1046,
+            "date": "2023-09-06T18:32:25.000Z",
+            "volume": 4644
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1049,
+            "bidLow": 1.1038,
+            "bidOpen": 1.1043,
+            "date": "2023-09-07T18:32:25.000Z",
+            "volume": 2911
+        },
+        {
+            "bidClose": 1.1067,
+            "bidHigh": 1.1057,
+            "bidLow": 1.1043,
+            "bidOpen": 1.1055,
+            "date": "2023-09-08T18:32:25.000Z",
+            "volume": 6210
+        },
+        {
+            "bidClose": 1.1075,
+            "bidHigh": 1.1074,
+            "bidLow": 1.1064,
+            "bidOpen": 1.1067,
+            "date": "2023-09-09T18:32:25.000Z",
+            "volume": 5441
+        },
+        {
+            "bidClose": 1.107,
+            "bidHigh": 1.1078,
+            "bidLow": 1.1067,
+            "bidOpen": 1.1075,
+            "date": "2023-09-10T18:32:25.000Z",
+            "volume": 8241
+        },
+        {
+            "bidClose": 1.1076,
+            "bidHigh": 1.1077,
+            "bidLow": 1.1068,
+            "bidOpen": 1.107,
+            "date": "2023-09-11T18:32:25.000Z",
+            "volume": 2378
+        },
+        {
+            "bidClose": 1.1076,
+            "bidHigh": 1.1082,
+            "bidLow": 1.1076,
+            "bidOpen": 1.1076,
+            "date": "2023-09-12T18:32:25.000Z",
+            "volume": 2774
+        },
+        {
+            "bidClose": 1.1081,
+            "bidHigh": 1.1077,
+            "bidLow": 1.1073,
+            "bidOpen": 1.1076,
+            "date": "2023-09-13T18:32:25.000Z",
+            "volume": 14454
+        },
+        {
+            "bidClose": 1.1081,
+            "bidHigh": 1.1084,
+            "bidLow": 1.1076,
+            "bidOpen": 1.1081,
+            "date": "2023-09-14T18:32:25.000Z",
+            "volume": 9855
+        },
+        {
+            "bidClose": 1.1071,
+            "bidHigh": 1.1089,
+            "bidLow": 1.1071,
+            "bidOpen": 1.1081,
+            "date": "2023-09-15T18:32:25.000Z",
+            "volume": 11223
+        },
+        {
+            "bidClose": 1.1065,
+            "bidHigh": 1.1082,
+            "bidLow": 1.1067,
+            "bidOpen": 1.1071,
+            "date": "2023-09-16T18:32:25.000Z",
+            "volume": 5003
+        },
+        {
+            "bidClose": 1.107,
+            "bidHigh": 1.1077,
+            "bidLow": 1.1059,
+            "bidOpen": 1.1065,
+            "date": "2023-09-17T18:32:25.000Z",
+            "volume": 8413
+        },
+        {
+            "bidClose": 1.1075,
+            "bidHigh": 1.1079,
+            "bidLow": 1.1069,
+            "bidOpen": 1.107,
+            "date": "2023-09-18T18:32:25.000Z",
+            "volume": 3695
+        },
+        {
+            "bidClose": 1.1068,
+            "bidHigh": 1.108,
+            "bidLow": 1.1069,
+            "bidOpen": 1.1075,
+            "date": "2023-09-19T18:32:25.000Z",
+            "volume": 5393
+        },
+        {
+            "bidClose": 1.1079,
+            "bidHigh": 1.107,
+            "bidLow": 1.1059,
+            "bidOpen": 1.1068,
+            "date": "2023-09-20T18:32:25.000Z",
+            "volume": 3933
+        },
+        {
+            "bidClose": 1.1092,
+            "bidHigh": 1.1086,
+            "bidLow": 1.1072,
+            "bidOpen": 1.1079,
+            "date": "2023-09-21T18:32:25.000Z",
+            "volume": 1389
+        },
+        {
+            "bidClose": 1.1083,
+            "bidHigh": 1.1096,
+            "bidLow": 1.1081,
+            "bidOpen": 1.1092,
+            "date": "2023-09-22T18:32:25.000Z",
+            "volume": 1130
+        },
+        {
+            "bidClose": 1.1084,
+            "bidHigh": 1.1094,
+            "bidLow": 1.1075,
+            "bidOpen": 1.1083,
+            "date": "2023-09-23T18:32:25.000Z",
+            "volume": 418
+        },
+        {
+            "bidClose": 1.1074,
+            "bidHigh": 1.1087,
+            "bidLow": 1.1074,
+            "bidOpen": 1.1084,
+            "date": "2023-09-24T18:32:25.000Z",
+            "volume": 2573
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1076,
+            "bidLow": 1.1071,
+            "bidOpen": 1.1074,
+            "date": "2023-09-25T18:32:25.000Z",
+            "volume": 8986
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1074,
+            "bidLow": 1.1052,
+            "bidOpen": 1.1062,
+            "date": "2023-09-26T18:32:25.000Z",
+            "volume": 1313
+        },
+        {
+            "bidClose": 1.1067,
+            "bidHigh": 1.1066,
+            "bidLow": 1.1044,
+            "bidOpen": 1.1055,
+            "date": "2023-09-27T18:32:25.000Z",
+            "volume": 7125
+        },
+        {
+            "bidClose": 1.1062,
+            "bidHigh": 1.1073,
+            "bidLow": 1.1062,
+            "bidOpen": 1.1067,
+            "date": "2023-09-28T18:32:25.000Z",
+            "volume": 10468
+        },
+        {
+            "bidClose": 1.1052,
+            "bidHigh": 1.1067,
+            "bidLow": 1.106,
+            "bidOpen": 1.1062,
+            "date": "2023-09-29T18:32:25.000Z",
+            "volume": 3208
+        },
+        {
+            "bidClose": 1.1054,
+            "bidHigh": 1.1055,
+            "bidLow": 1.1041,
+            "bidOpen": 1.1052,
+            "date": "2023-09-30T18:32:25.000Z",
+            "volume": 4483
+        },
+        {
+            "bidClose": 1.1056,
+            "bidHigh": 1.1059,
+            "bidLow": 1.105,
+            "bidOpen": 1.1054,
+            "date": "2023-10-01T18:32:25.000Z",
+            "volume": 13044
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1066,
+            "bidLow": 1.1051,
+            "bidOpen": 1.1056,
+            "date": "2023-10-02T18:32:25.000Z",
+            "volume": 16663
+        },
+        {
+            "bidClose": 1.1056,
+            "bidHigh": 1.1049,
+            "bidLow": 1.1045,
+            "bidOpen": 1.1046,
+            "date": "2023-10-03T18:32:25.000Z",
+            "volume": 4712
+        },
+        {
+            "bidClose": 1.1043,
+            "bidHigh": 1.1067,
+            "bidLow": 1.1054,
+            "bidOpen": 1.1056,
+            "date": "2023-10-04T18:32:25.000Z",
+            "volume": 5554
+        },
+        {
+            "bidClose": 1.1041,
+            "bidHigh": 1.1053,
+            "bidLow": 1.104,
+            "bidOpen": 1.1043,
+            "date": "2023-10-05T18:32:25.000Z",
+            "volume": 3535
+        },
+        {
+            "bidClose": 1.1032,
+            "bidHigh": 1.1046,
+            "bidLow": 1.1037,
+            "bidOpen": 1.1041,
+            "date": "2023-10-06T18:32:25.000Z",
+            "volume": 12244
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1044,
+            "bidLow": 1.1022,
+            "bidOpen": 1.1032,
+            "date": "2023-10-07T18:32:25.000Z",
+            "volume": 4768
+        },
+        {
+            "bidClose": 1.1038,
+            "bidHigh": 1.1039,
+            "bidLow": 1.1033,
+            "bidOpen": 1.1033,
+            "date": "2023-10-08T18:32:25.000Z",
+            "volume": 3783
+        },
+        {
+            "bidClose": 1.103,
+            "bidHigh": 1.1046,
+            "bidLow": 1.1033,
+            "bidOpen": 1.1038,
+            "date": "2023-10-09T18:32:25.000Z",
+            "volume": 5382
+        },
+        {
+            "bidClose": 1.1025,
+            "bidHigh": 1.1042,
+            "bidLow": 1.1029,
+            "bidOpen": 1.103,
+            "date": "2023-10-10T18:32:25.000Z",
+            "volume": 1744
+        },
+        {
+            "bidClose": 1.1018,
+            "bidHigh": 1.103,
+            "bidLow": 1.1016,
+            "bidOpen": 1.1025,
+            "date": "2023-10-11T18:32:25.000Z",
+            "volume": 12915
+        },
+        {
+            "bidClose": 1.1014,
+            "bidHigh": 1.1024,
+            "bidLow": 1.1008,
+            "bidOpen": 1.1018,
+            "date": "2023-10-12T18:32:25.000Z",
+            "volume": 1802
+        },
+        {
+            "bidClose": 1.1022,
+            "bidHigh": 1.1024,
+            "bidLow": 1.1002,
+            "bidOpen": 1.1014,
+            "date": "2023-10-13T18:32:25.000Z",
+            "volume": 2166
+        },
+        {
+            "bidClose": 1.1013,
+            "bidHigh": 1.103,
+            "bidLow": 1.1012,
+            "bidOpen": 1.1022,
+            "date": "2023-10-14T18:32:25.000Z",
+            "volume": 1601
+        },
+        {
+            "bidClose": 1.1023,
+            "bidHigh": 1.1022,
+            "bidLow": 1.1005,
+            "bidOpen": 1.1013,
+            "date": "2023-10-15T18:32:25.000Z",
+            "volume": 12460
+        },
+        {
+            "bidClose": 1.1018,
+            "bidHigh": 1.1035,
+            "bidLow": 1.1023,
+            "bidOpen": 1.1023,
+            "date": "2023-10-16T18:32:25.000Z",
+            "volume": 4926
+        },
+        {
+            "bidClose": 1.1029,
+            "bidHigh": 1.1028,
+            "bidLow": 1.1009,
+            "bidOpen": 1.1018,
+            "date": "2023-10-17T18:32:25.000Z",
+            "volume": 2343
+        },
+        {
+            "bidClose": 1.103,
+            "bidHigh": 1.103,
+            "bidLow": 1.1024,
+            "bidOpen": 1.1029,
+            "date": "2023-10-18T18:32:25.000Z",
+            "volume": 2744
+        },
+        {
+            "bidClose": 1.1017,
+            "bidHigh": 1.1037,
+            "bidLow": 1.1022,
+            "bidOpen": 1.103,
+            "date": "2023-10-19T18:32:25.000Z",
+            "volume": 2889
+        },
+        {
+            "bidClose": 1.1028,
+            "bidHigh": 1.1019,
+            "bidLow": 1.1016,
+            "bidOpen": 1.1017,
+            "date": "2023-10-20T18:32:25.000Z",
+            "volume": 2934
+        },
+        {
+            "bidClose": 1.1023,
+            "bidHigh": 1.103,
+            "bidLow": 1.1018,
+            "bidOpen": 1.1028,
+            "date": "2023-10-21T18:32:25.000Z",
+            "volume": 10518
+        },
+        {
+            "bidClose": 1.1012,
+            "bidHigh": 1.1026,
+            "bidLow": 1.1021,
+            "bidOpen": 1.1023,
+            "date": "2023-10-22T18:32:25.000Z",
+            "volume": 2567
+        },
+        {
+            "bidClose": 1.1008,
+            "bidHigh": 1.1023,
+            "bidLow": 1.1002,
+            "bidOpen": 1.1012,
+            "date": "2023-10-23T18:32:25.000Z",
+            "volume": 3317
+        },
+        {
+            "bidClose": 1.0996,
+            "bidHigh": 1.1019,
+            "bidLow": 1.0997,
+            "bidOpen": 1.1008,
+            "date": "2023-10-24T18:32:25.000Z",
+            "volume": 2847
+        },
+        {
+            "bidClose": 1.1004,
+            "bidHigh": 1.1006,
+            "bidLow": 1.099,
+            "bidOpen": 1.0996,
+            "date": "2023-10-25T18:32:25.000Z",
+            "volume": 8454
+        },
+        {
+            "bidClose": 1.1013,
+            "bidHigh": 1.1005,
+            "bidLow": 1.0993,
+            "bidOpen": 1.1004,
+            "date": "2023-10-26T18:32:25.000Z",
+            "volume": 8882
+        },
+        {
+            "bidClose": 1.1022,
+            "bidHigh": 1.1016,
+            "bidLow": 1.1002,
+            "bidOpen": 1.1013,
+            "date": "2023-10-27T18:32:25.000Z",
+            "volume": 3814
+        },
+        {
+            "bidClose": 1.1023,
+            "bidHigh": 1.1022,
+            "bidLow": 1.1013,
+            "bidOpen": 1.1022,
+            "date": "2023-10-28T18:32:25.000Z",
+            "volume": 15562
+        },
+        {
+            "bidClose": 1.1025,
+            "bidHigh": 1.103,
+            "bidLow": 1.1019,
+            "bidOpen": 1.1023,
+            "date": "2023-10-29T18:32:25.000Z",
+            "volume": 1847
+        },
+        {
+            "bidClose": 1.1027,
+            "bidHigh": 1.1037,
+            "bidLow": 1.1018,
+            "bidOpen": 1.1025,
+            "date": "2023-10-30T18:32:25.000Z",
+            "volume": 6484
+        },
+        {
+            "bidClose": 1.1016,
+            "bidHigh": 1.1034,
+            "bidLow": 1.1021,
+            "bidOpen": 1.1027,
+            "date": "2023-10-31T18:32:25.000Z",
+            "volume": 15595
+        },
+        {
+            "bidClose": 1.1018,
+            "bidHigh": 1.1024,
+            "bidLow": 1.1009,
+            "bidOpen": 1.1016,
+            "date": "2023-11-01T18:32:25.000Z",
+            "volume": 685
+        },
+        {
+            "bidClose": 1.103,
+            "bidHigh": 1.1024,
+            "bidLow": 1.1016,
+            "bidOpen": 1.1018,
+            "date": "2023-11-02T18:32:25.000Z",
+            "volume": 8637
+        },
+        {
+            "bidClose": 1.104,
+            "bidHigh": 1.1031,
+            "bidLow": 1.1026,
+            "bidOpen": 1.103,
+            "date": "2023-11-03T18:32:25.000Z",
+            "volume": 7622
+        },
+        {
+            "bidClose": 1.1028,
+            "bidHigh": 1.1043,
+            "bidLow": 1.1034,
+            "bidOpen": 1.104,
+            "date": "2023-11-04T18:32:25.000Z",
+            "volume": 4997
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1039,
+            "bidLow": 1.1021,
+            "bidOpen": 1.1028,
+            "date": "2023-11-05T18:32:25.000Z",
+            "volume": 1196
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1036,
+            "bidLow": 1.1027,
+            "bidOpen": 1.1033,
+            "date": "2023-11-06T18:32:25.000Z",
+            "volume": 1489
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1045,
+            "bidLow": 1.1033,
+            "bidOpen": 1.1033,
+            "date": "2023-11-07T18:32:25.000Z",
+            "volume": 5290
+        },
+        {
+            "bidClose": 1.1035,
+            "bidHigh": 1.1033,
+            "bidLow": 1.1022,
+            "bidOpen": 1.1033,
+            "date": "2023-11-08T18:32:25.000Z",
+            "volume": 12196
+        },
+        {
+            "bidClose": 1.1044,
+            "bidHigh": 1.1041,
+            "bidLow": 1.1025,
+            "bidOpen": 1.1035,
+            "date": "2023-11-09T18:32:25.000Z",
+            "volume": 9587
+        },
+        {
+            "bidClose": 1.1049,
+            "bidHigh": 1.1047,
+            "bidLow": 1.1032,
+            "bidOpen": 1.1044,
+            "date": "2023-11-10T18:32:25.000Z",
+            "volume": 7812
+        },
+        {
+            "bidClose": 1.1055,
+            "bidHigh": 1.1058,
+            "bidLow": 1.104,
+            "bidOpen": 1.1049,
+            "date": "2023-11-11T18:32:25.000Z",
+            "volume": 5802
+        },
+        {
+            "bidClose": 1.1046,
+            "bidHigh": 1.1061,
+            "bidLow": 1.1047,
+            "bidOpen": 1.1055,
+            "date": "2023-11-12T18:32:25.000Z",
+            "volume": 8861
+        },
+        {
+            "bidClose": 1.1035,
+            "bidHigh": 1.1051,
+            "bidLow": 1.1041,
+            "bidOpen": 1.1046,
+            "date": "2023-11-13T18:32:25.000Z",
+            "volume": 2512
+        },
+        {
+            "bidClose": 1.1029,
+            "bidHigh": 1.1047,
+            "bidLow": 1.1034,
+            "bidOpen": 1.1035,
+            "date": "2023-11-14T18:32:25.000Z",
+            "volume": 5171
+        },
+        {
+            "bidClose": 1.1033,
+            "bidHigh": 1.1029,
+            "bidLow": 1.1024,
+            "bidOpen": 1.1029,
+            "date": "2023-11-15T18:32:25.000Z",
+            "volume": 11952
+        },
+        {
+            "bidClose": 1.1025,
+            "bidHigh": 1.104,
+            "bidLow": 1.1023,
+            "bidOpen": 1.1033,
+            "date": "2023-11-16T18:32:25.000Z",
+            "volume": 558
+        },
+        {
+            "bidClose": 1.1019,
+            "bidHigh": 1.1037,
+            "bidLow": 1.1015,
+            "bidOpen": 1.1025,
+            "date": "2023-11-17T18:32:25.000Z",
+            "volume": 4474
+        },
+        {
+            "bidClose": 1.1014,
+            "bidHigh": 1.1027,
+            "bidLow": 1.1019,
+            "bidOpen": 1.1019,
+            "date": "2023-11-18T18:32:25.000Z",
+            "volume": 315
+        },
+        {
+            "bidClose": 1.1006,
+            "bidHigh": 1.1025,
+            "bidLow": 1.101,
+            "bidOpen": 1.1014,
+            "date": "2023-11-19T18:32:25.000Z",
+            "volume": 9890
+        },
+        {
+            "bidClose": 1.0999,
+            "bidHigh": 1.1008,
+            "bidLow": 1.1001,
+            "bidOpen": 1.1006,
+            "date": "2023-11-20T18:32:25.000Z",
+            "volume": 4291
+        },
+        {
+            "bidClose": 1.0996,
+            "bidHigh": 1.1,
+            "bidLow": 1.0994,
+            "bidOpen": 1.0999,
+            "date": "2023-11-21T18:32:25.000Z",
+            "volume": 13237
+        },
+        {
+            "bidClose": 1.1001,
+            "bidHigh": 1.1005,
+            "bidLow": 1.0996,
+            "bidOpen": 1.0996,
+            "date": "2023-11-22T18:32:25.000Z",
+            "volume": 1293
+        },
+        {
+            "bidClose": 1.0996,
+            "bidHigh": 1.101,
+            "bidLow": 1.1001,
+            "bidOpen": 1.1001,
+            "date": "2023-11-23T18:32:25.000Z",
+            "volume": 6605
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0995,
+            "bidOpen": 1.0996,
+            "date": "2023-11-24T18:32:25.000Z",
+            "volume": 3353
+        },
+        {
+            "bidClose": 1.0979,
+            "bidHigh": 1.0992,
+            "bidLow": 1.0979,
+            "bidOpen": 1.0988,
+            "date": "2023-11-25T18:32:25.000Z",
+            "volume": 591
+        },
+        {
+            "bidClose": 1.0987,
+            "bidHigh": 1.0985,
+            "bidLow": 1.0978,
+            "bidOpen": 1.0979,
+            "date": "2023-11-26T18:32:25.000Z",
+            "volume": 8863
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0985,
+            "bidOpen": 1.0987,
+            "date": "2023-11-27T18:32:25.000Z",
+            "volume": 6117
+        },
+        {
+            "bidClose": 1.098,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0979,
+            "bidOpen": 1.0988,
+            "date": "2023-11-28T18:32:25.000Z",
+            "volume": 2199
+        },
+        {
+            "bidClose": 1.0981,
+            "bidHigh": 1.099,
+            "bidLow": 1.0976,
+            "bidOpen": 1.098,
+            "date": "2023-11-29T18:32:25.000Z",
+            "volume": 19377
+        },
+        {
+            "bidClose": 1.0986,
+            "bidHigh": 1.0988,
+            "bidLow": 1.0974,
+            "bidOpen": 1.0981,
+            "date": "2023-11-30T18:32:25.000Z",
+            "volume": 5634
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.0989,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0986,
+            "date": "2023-12-01T18:32:25.000Z",
+            "volume": 4041
+        },
+        {
+            "bidClose": 1.0999,
+            "bidHigh": 1.0997,
+            "bidLow": 1.0987,
+            "bidOpen": 1.0993,
+            "date": "2023-12-02T18:32:25.000Z",
+            "volume": 10902
+        },
+        {
+            "bidClose": 1.0999,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0988,
+            "bidOpen": 1.0999,
+            "date": "2023-12-03T18:32:25.000Z",
+            "volume": 6276
+        },
+        {
+            "bidClose": 1.0999,
+            "bidHigh": 1.1011,
+            "bidLow": 1.0993,
+            "bidOpen": 1.0999,
+            "date": "2023-12-04T18:32:25.000Z",
+            "volume": 4267
+        },
+        {
+            "bidClose": 1.1002,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0993,
+            "bidOpen": 1.0999,
+            "date": "2023-12-05T18:32:25.000Z",
+            "volume": 10140
+        },
+        {
+            "bidClose": 1.099,
+            "bidHigh": 1.101,
+            "bidLow": 1.0989,
+            "bidOpen": 1.1002,
+            "date": "2023-12-06T18:32:25.000Z",
+            "volume": 239
+        },
+        {
+            "bidClose": 1.0986,
+            "bidHigh": 1.0992,
+            "bidLow": 1.0985,
+            "bidOpen": 1.099,
+            "date": "2023-12-07T18:32:25.000Z",
+            "volume": 590
+        },
+        {
+            "bidClose": 1.0988,
+            "bidHigh": 1.099,
+            "bidLow": 1.0985,
+            "bidOpen": 1.0986,
+            "date": "2023-12-08T18:32:25.000Z",
+            "volume": 9035
+        },
+        {
+            "bidClose": 1.0978,
+            "bidHigh": 1.0995,
+            "bidLow": 1.0979,
+            "bidOpen": 1.0988,
+            "date": "2023-12-09T18:32:25.000Z",
+            "volume": 1135
+        },
+        {
+            "bidClose": 1.0985,
+            "bidHigh": 1.0978,
+            "bidLow": 1.0975,
+            "bidOpen": 1.0978,
+            "date": "2023-12-10T18:32:25.000Z",
+            "volume": 11615
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.0987,
+            "bidLow": 1.098,
+            "bidOpen": 1.0985,
+            "date": "2023-12-11T18:32:25.000Z",
+            "volume": 1498
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.1005,
+            "bidLow": 1.098,
+            "bidOpen": 1.0993,
+            "date": "2023-12-12T18:32:25.000Z",
+            "volume": 9929
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.1008,
+            "bidLow": 1.0993,
+            "bidOpen": 1.0997,
+            "date": "2023-12-13T18:32:25.000Z",
+            "volume": 9732
+        },
+        {
+            "bidClose": 1.099,
+            "bidHigh": 1.1001,
+            "bidLow": 1.099,
+            "bidOpen": 1.0993,
+            "date": "2023-12-14T18:32:25.000Z",
+            "volume": 2703
+        },
+        {
+            "bidClose": 1.0983,
+            "bidHigh": 1.1,
+            "bidLow": 1.0982,
+            "bidOpen": 1.099,
+            "date": "2023-12-15T18:32:25.000Z",
+            "volume": 6313
+        },
+        {
+            "bidClose": 1.0983,
+            "bidHigh": 1.0988,
+            "bidLow": 1.0976,
+            "bidOpen": 1.0983,
+            "date": "2023-12-16T18:32:25.000Z",
+            "volume": 6569
+        },
+        {
+            "bidClose": 1.0995,
+            "bidHigh": 1.0987,
+            "bidLow": 1.0974,
+            "bidOpen": 1.0983,
+            "date": "2023-12-17T18:32:25.000Z",
+            "volume": 8773
+        },
+        {
+            "bidClose": 1.0992,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0994,
+            "bidOpen": 1.0995,
+            "date": "2023-12-18T18:32:25.000Z",
+            "volume": 4342
+        },
+        {
+            "bidClose": 1.0994,
+            "bidHigh": 1.0993,
+            "bidLow": 1.099,
+            "bidOpen": 1.0992,
+            "date": "2023-12-19T18:32:25.000Z",
+            "volume": 2550
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.1002,
+            "bidLow": 1.0988,
+            "bidOpen": 1.0994,
+            "date": "2023-12-20T18:32:25.000Z",
+            "volume": 3631
+        },
+        {
+            "bidClose": 1.1001,
+            "bidHigh": 1.1002,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0993,
+            "date": "2023-12-21T18:32:25.000Z",
+            "volume": 6483
+        },
+        {
+            "bidClose": 1.1002,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0988,
+            "bidOpen": 1.1001,
+            "date": "2023-12-22T18:32:25.000Z",
+            "volume": 17846
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.1015,
+            "bidLow": 1.1001,
+            "bidOpen": 1.1002,
+            "date": "2023-12-23T18:32:25.000Z",
+            "volume": 3208
+        },
+        {
+            "bidClose": 1.099,
+            "bidHigh": 1.1003,
+            "bidLow": 1.0995,
+            "bidOpen": 1.0997,
+            "date": "2023-12-24T18:32:25.000Z",
+            "volume": 8746
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.0997,
+            "bidLow": 1.0984,
+            "bidOpen": 1.099,
+            "date": "2023-12-25T18:32:25.000Z",
+            "volume": 14198
+        },
+        {
+            "bidClose": 1.0986,
+            "bidHigh": 1.0994,
+            "bidLow": 1.099,
+            "bidOpen": 1.0993,
+            "date": "2023-12-26T18:32:25.000Z",
+            "volume": 10505
+        },
+        {
+            "bidClose": 1.0997,
+            "bidHigh": 1.0996,
+            "bidLow": 1.0978,
+            "bidOpen": 1.0986,
+            "date": "2023-12-27T18:32:25.000Z",
+            "volume": 3280
+        },
+        {
+            "bidClose": 1.0998,
+            "bidHigh": 1.1004,
+            "bidLow": 1.0987,
+            "bidOpen": 1.0997,
+            "date": "2023-12-28T18:32:25.000Z",
+            "volume": 9057
+        },
+        {
+            "bidClose": 1.0998,
+            "bidHigh": 1.1003,
+            "bidLow": 1.0995,
+            "bidOpen": 1.0998,
+            "date": "2023-12-29T18:32:25.000Z",
+            "volume": 27
+        },
+        {
+            "bidClose": 1.1004,
+            "bidHigh": 1.1005,
+            "bidLow": 1.0987,
+            "bidOpen": 1.0998,
+            "date": "2023-12-30T18:32:25.000Z",
+            "volume": 2404
+        },
+        {
+            "bidClose": 1.1008,
+            "bidHigh": 1.1009,
+            "bidLow": 1.1002,
+            "bidOpen": 1.1004,
+            "date": "2023-12-31T18:32:25.000Z",
+            "volume": 4124
+        },
+        {
+            "bidClose": 1.0996,
+            "bidHigh": 1.101,
+            "bidLow": 1.1007,
+            "bidOpen": 1.1008,
+            "date": "2024-01-01T18:32:25.000Z",
+            "volume": 16673
+        },
+        {
+            "bidClose": 1.1002,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0986,
+            "bidOpen": 1.0996,
+            "date": "2024-01-02T18:32:25.000Z",
+            "volume": 10778
+        },
+        {
+            "bidClose": 1.0993,
+            "bidHigh": 1.1011,
+            "bidLow": 1.0989,
+            "bidOpen": 1.1002,
+            "date": "2024-01-03T18:32:25.000Z",
+            "volume": 1778
+        },
+        {
+            "bidClose": 1.0992,
+            "bidHigh": 1.0999,
+            "bidLow": 1.0985,
+            "bidOpen": 1.0993,
+            "date": "2024-01-04T18:32:25.000Z",
+            "volume": 6873
+        },
+        {
+            "bidClose": 1.0998,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0991,
+            "bidOpen": 1.0992,
+            "date": "2024-01-05T18:32:25.000Z",
+            "volume": 2271
+        },
+        {
+            "bidClose": 1.0994,
+            "bidHigh": 1.1001,
+            "bidLow": 1.0991,
+            "bidOpen": 1.0998,
+            "date": "2024-01-06T18:32:25.000Z",
+            "volume": 8211
+        },
+        {
+            "bidClose": 1.0986,
+            "bidHigh": 1.0997,
+            "bidLow": 1.0981,
+            "bidOpen": 1.0994,
+            "date": "2024-01-07T18:32:25.000Z",
+            "volume": 1304
+        },
+        {
+            "bidClose": 1.098,
+            "bidHigh": 1.0995,
+            "bidLow": 1.098,
+            "bidOpen": 1.0986,
+            "date": "2024-01-08T18:32:25.000Z",
+            "volume": 11541
+        },
+        {
+            "bidClose": 1.097,
+            "bidHigh": 1.0985,
+            "bidLow": 1.0974,
+            "bidOpen": 1.098,
+            "date": "2024-01-09T18:32:25.000Z",
+            "volume": 3199
+        },
+        {
+            "bidClose": 1.0973,
+            "bidHigh": 1.0975,
+            "bidLow": 1.0965,
+            "bidOpen": 1.097,
+            "date": "2024-01-10T18:32:25.000Z",
+            "volume": 8953
+        },
+        {
+            "bidClose": 1.0964,
+            "bidHigh": 1.0976,
+            "bidLow": 1.0961,
+            "bidOpen": 1.0973,
+            "date": "2024-01-11T18:32:25.000Z",
+            "volume": 3651
+        },
+        {
+            "bidClose": 1.0977,
+            "bidHigh": 1.0971,
+            "bidLow": 1.0951,
+            "bidOpen": 1.0964,
+            "date": "2024-01-12T18:32:25.000Z",
+            "volume": 1116
+        },
+        {
+            "bidClose": 1.0981,
+            "bidHigh": 1.0981,
+            "bidLow": 1.0964,
+            "bidOpen": 1.0977,
+            "date": "2024-01-13T18:32:25.000Z",
+            "volume": 11256
+        },
+        {
+            "bidClose": 1.0977,
+            "bidHigh": 1.0984,
+            "bidLow": 1.0978,
+            "bidOpen": 1.0981,
+            "date": "2024-01-14T18:32:25.000Z",
+            "volume": 1595
+        },
+        {
+            "bidClose": 1.097,
+            "bidHigh": 1.0986,
+            "bidLow": 1.0972,
+            "bidOpen": 1.0977,
+            "date": "2024-01-15T18:32:25.000Z",
+            "volume": 3812
+        },
+        {
+            "bidClose": 1.0969,
+            "bidHigh": 1.0973,
+            "bidLow": 1.096,
+            "bidOpen": 1.097,
+            "date": "2024-01-16T18:32:25.000Z",
+            "volume": 445
+        },
+        {
+            "bidClose": 1.0968,
+            "bidHigh": 1.0976,
+            "bidLow": 1.0967,
+            "bidOpen": 1.0969,
+            "date": "2024-01-17T18:32:25.000Z",
+            "volume": 2712
+        },
+        {
+            "bidClose": 1.0967,
+            "bidHigh": 1.0968,
+            "bidLow": 1.0962,
+            "bidOpen": 1.0968,
+            "date": "2024-01-18T18:32:25.000Z",
+            "volume": 2988
+        },
+        {
+            "bidClose": 1.0958,
+            "bidHigh": 1.0975,
+            "bidLow": 1.0961,
+            "bidOpen": 1.0967,
+            "date": "2024-01-19T18:32:25.000Z",
+            "volume": 13825
+        },
+        {
+            "bidClose": 1.0957,
+            "bidHigh": 1.0966,
+            "bidLow": 1.0946,
+            "bidOpen": 1.0958,
+            "date": "2024-01-20T18:32:25.000Z",
+            "volume": 3822
+        },
+        {
+            "bidClose": 1.0949,
+            "bidHigh": 1.096,
+            "bidLow": 1.0953,
+            "bidOpen": 1.0957,
+            "date": "2024-01-21T18:32:25.000Z",
+            "volume": 4399
+        },
+        {
+            "bidClose": 1.0942,
+            "bidHigh": 1.0955,
+            "bidLow": 1.0937,
+            "bidOpen": 1.0949,
+            "date": "2024-01-22T18:32:25.000Z",
+            "volume": 4921
+        },
+        {
+            "bidClose": 1.0935,
+            "bidHigh": 1.0948,
+            "bidLow": 1.0931,
+            "bidOpen": 1.0942,
+            "date": "2024-01-23T18:32:25.000Z",
+            "volume": 5138
+        },
+        {
+            "bidClose": 1.0946,
+            "bidHigh": 1.0945,
+            "bidLow": 1.093,
+            "bidOpen": 1.0935,
+            "date": "2024-01-24T18:32:25.000Z",
+            "volume": 814
+        },
+        {
+            "bidClose": 1.0948,
+            "bidHigh": 1.0952,
+            "bidLow": 1.0942,
+            "bidOpen": 1.0946,
+            "date": "2024-01-25T18:32:25.000Z",
+            "volume": 8659
+        },
+        {
+            "bidClose": 1.0955,
+            "bidHigh": 1.0959,
+            "bidLow": 1.0944,
+            "bidOpen": 1.0948,
+            "date": "2024-01-26T18:32:25.000Z",
+            "volume": 11382
+        },
+        {
+            "bidClose": 1.0952,
+            "bidHigh": 1.0965,
+            "bidLow": 1.0947,
+            "bidOpen": 1.0955,
+            "date": "2024-01-27T18:32:25.000Z",
+            "volume": 3197
+        },
+        {
+            "bidClose": 1.0941,
+            "bidHigh": 1.0963,
+            "bidLow": 1.0947,
+            "bidOpen": 1.0952,
+            "date": "2024-01-28T18:32:25.000Z",
+            "volume": 7379
+        },
+        {
+            "bidClose": 1.0951,
+            "bidHigh": 1.0942,
+            "bidLow": 1.0936,
+            "bidOpen": 1.0941,
+            "date": "2024-01-29T18:32:25.000Z",
+            "volume": 11362
+        },
+        {
+            "bidClose": 1.0954,
+            "bidHigh": 1.0953,
+            "bidLow": 1.0942,
+            "bidOpen": 1.0951,
+            "date": "2024-01-30T18:32:25.000Z",
+            "volume": 787
+        },
+        {
+            "bidClose": 1.0941,
+            "bidHigh": 1.0954,
+            "bidLow": 1.0942,
+            "bidOpen": 1.0954,
+            "date": "2024-01-31T18:32:25.000Z",
+            "volume": 3430
+        },
+        {
+            "bidClose": 1.0935,
+            "bidHigh": 1.0941,
+            "bidLow": 1.0934,
+            "bidOpen": 1.0941,
+            "date": "2024-02-01T18:32:25.000Z",
+            "volume": 3818
+        },
+        {
+            "bidClose": 1.0938,
+            "bidHigh": 1.0946,
+            "bidLow": 1.0929,
+            "bidOpen": 1.0935,
+            "date": "2024-02-02T18:32:25.000Z",
+            "volume": 1443
+        },
+        {
+            "bidClose": 1.0948,
+            "bidHigh": 1.0939,
+            "bidLow": 1.0934,
+            "bidOpen": 1.0938,
+            "date": "2024-02-03T18:32:25.000Z",
+            "volume": 16601
+        },
+        {
+            "bidClose": 1.0956,
+            "bidHigh": 1.0961,
+            "bidLow": 1.0944,
+            "bidOpen": 1.0948,
+            "date": "2024-02-04T18:32:25.000Z",
+            "volume": 10239
+        },
+        {
+            "bidClose": 1.0962,
+            "bidHigh": 1.0961,
+            "bidLow": 1.0946,
+            "bidOpen": 1.0956,
+            "date": "2024-02-05T18:32:25.000Z",
+            "volume": 1124
+        },
+        {
+            "bidClose": 1.095,
+            "bidHigh": 1.0963,
+            "bidLow": 1.0958,
+            "bidOpen": 1.0962,
+            "date": "2024-02-06T18:32:25.000Z",
+            "volume": 3720
+        },
+        {
+            "bidClose": 1.0945,
+            "bidHigh": 1.0957,
+            "bidLow": 1.0947,
+            "bidOpen": 1.095,
+            "date": "2024-02-07T18:32:25.000Z",
+            "volume": 3801
+        },
+        {
+            "bidClose": 1.0944,
+            "bidHigh": 1.0956,
+            "bidLow": 1.0944,
+            "bidOpen": 1.0945,
+            "date": "2024-02-08T18:32:25.000Z",
+            "volume": 6891
+        },
+        {
+            "bidClose": 1.0937,
+            "bidHigh": 1.095,
+            "bidLow": 1.0941,
+            "bidOpen": 1.0944,
+            "date": "2024-02-09T18:32:25.000Z",
+            "volume": 4707
+        },
+        {
+            "bidClose": 1.0936,
+            "bidHigh": 1.0938,
+            "bidLow": 1.0928,
+            "bidOpen": 1.0937,
+            "date": "2024-02-10T18:32:25.000Z",
+            "volume": 15384
+        },
+        {
+            "bidClose": 1.0941,
+            "bidHigh": 1.0942,
+            "bidLow": 1.0931,
+            "bidOpen": 1.0936,
+            "date": "2024-02-11T18:32:25.000Z",
+            "volume": 11673
+        },
+        {
+            "bidClose": 1.0945,
+            "bidHigh": 1.095,
+            "bidLow": 1.0931,
+            "bidOpen": 1.0941,
+            "date": "2024-02-12T18:32:25.000Z",
+            "volume": 1777
+        },
+        {
+            "bidClose": 1.094,
+            "bidHigh": 1.0946,
+            "bidLow": 1.0934,
+            "bidOpen": 1.0945,
+            "date": "2024-02-13T18:32:25.000Z",
+            "volume": 7696
+        },
+        {
+            "bidClose": 1.0952,
+            "bidHigh": 1.0946,
+            "bidLow": 1.0933,
+            "bidOpen": 1.094,
+            "date": "2024-02-14T18:32:25.000Z",
+            "volume": 5338
+        },
+        {
+            "bidClose": 1.095,
+            "bidHigh": 1.0953,
+            "bidLow": 1.0949,
+            "bidOpen": 1.0952,
+            "date": "2024-02-15T18:32:25.000Z",
+            "volume": 2139
+        },
+        {
+            "bidClose": 1.0954,
+            "bidHigh": 1.0957,
+            "bidLow": 1.095,
+            "bidOpen": 1.095,
+            "date": "2024-02-16T18:32:25.000Z",
+            "volume": 1685
+        },
+        {
+            "bidClose": 1.0951,
+            "bidHigh": 1.0957,
+            "bidLow": 1.0954,
+            "bidOpen": 1.0954,
+            "date": "2024-02-17T18:32:25.000Z",
+            "volume": 8185
+        },
+        {
+            "bidClose": 1.0946,
+            "bidHigh": 1.0956,
+            "bidLow": 1.095,
+            "bidOpen": 1.0951,
+            "date": "2024-02-18T18:32:25.000Z",
+            "volume": 15477
+        },
+        {
+            "bidClose": 1.0955,
+            "bidHigh": 1.0947,
+            "bidLow": 1.0936,
+            "bidOpen": 1.0946,
+            "date": "2024-02-19T18:32:25.000Z",
+            "volume": 9078
+        },
+        {
+            "bidClose": 1.0949,
+            "bidHigh": 1.0964,
+            "bidLow": 1.095,
+            "bidOpen": 1.0955,
+            "date": "2024-02-20T18:32:25.000Z",
+            "volume": 3605
+        },
+        {
+            "bidClose": 1.0953,
+            "bidHigh": 1.0959,
+            "bidLow": 1.0937,
+            "bidOpen": 1.0949,
+            "date": "2024-02-21T18:32:25.000Z",
+            "volume": 7832
+        },
+        {
+            "bidClose": 1.0963,
+            "bidHigh": 1.0955,
+            "bidLow": 1.0946,
+            "bidOpen": 1.0953,
+            "date": "2024-02-22T18:32:25.000Z",
+            "volume": 2863
+        },
+        {
+            "bidClose": 1.095,
+            "bidHigh": 1.0975,
+            "bidLow": 1.0963,
+            "bidOpen": 1.0963,
+            "date": "2024-02-23T18:32:25.000Z",
+            "volume": 13340
+        },
+        {
+            "bidClose": 1.0951,
+            "bidHigh": 1.0962,
+            "bidLow": 1.0947,
+            "bidOpen": 1.095,
+            "date": "2024-02-24T18:32:25.000Z",
+            "volume": 4460
+        },
+        {
+            "bidClose": 1.0941,
+            "bidHigh": 1.0952,
+            "bidLow": 1.0943,
+            "bidOpen": 1.0951,
+            "date": "2024-02-25T18:32:25.000Z",
+            "volume": 4043
+        },
+        {
+            "bidClose": 1.0943,
+            "bidHigh": 1.0944,
+            "bidLow": 1.0933,
+            "bidOpen": 1.0941,
+            "date": "2024-02-26T18:32:25.000Z",
+            "volume": 2579
+        },
+        {
+            "bidClose": 1.0949,
+            "bidHigh": 1.0951,
+            "bidLow": 1.0935,
+            "bidOpen": 1.0943,
+            "date": "2024-02-27T18:32:25.000Z",
+            "volume": 8472
+        },
+        {
+            "bidClose": 1.0957,
+            "bidHigh": 1.0953,
+            "bidLow": 1.0949,
+            "bidOpen": 1.0949,
+            "date": "2024-02-28T18:32:25.000Z",
+            "volume": 7331
+        },
+        {
+            "bidClose": 1.0958,
+            "bidHigh": 1.0966,
+            "bidLow": 1.0952,
+            "bidOpen": 1.0957,
+            "date": "2024-02-29T18:32:25.000Z",
+            "volume": 9957
+        },
+        {
+            "bidClose": 1.0959,
+            "bidHigh": 1.0963,
+            "bidLow": 1.0954,
+            "bidOpen": 1.0958,
+            "date": "2024-03-01T18:32:25.000Z",
+            "volume": 2705
+        },
+        {
+            "bidClose": 1.0963,
+            "bidHigh": 1.0964,
+            "bidLow": 1.0955,
+            "bidOpen": 1.0959,
+            "date": "2024-03-02T18:32:25.000Z",
+            "volume": 4164
+        },
+        {
+            "bidClose": 1.0963,
+            "bidHigh": 1.0972,
+            "bidLow": 1.0952,
+            "bidOpen": 1.0963,
+            "date": "2024-03-03T18:32:25.000Z",
+            "volume": 10292
+        },
+        {
+            "bidClose": 1.0953,
+            "bidHigh": 1.0966,
+            "bidLow": 1.096,
+            "bidOpen": 1.0963,
+            "date": "2024-03-04T18:32:25.000Z",
+            "volume": 4032
+        },
+        {
+            "bidClose": 1.0947,
+            "bidHigh": 1.0965,
+            "bidLow": 1.0949,
+            "bidOpen": 1.0953,
+            "date": "2024-03-05T18:32:25.000Z",
+            "volume": 7953
+        },
+        {
+            "bidClose": 1.0935,
+            "bidHigh": 1.0958,
+            "bidLow": 1.0936,
+            "bidOpen": 1.0947,
+            "date": "2024-03-06T18:32:25.000Z",
+            "volume": 1463
+        },
+        {
+            "bidClose": 1.0946,
+            "bidHigh": 1.0936,
+            "bidLow": 1.0925,
+            "bidOpen": 1.0935,
+            "date": "2024-03-07T18:32:25.000Z",
+            "volume": 2790
+        },
+        {
+            "bidClose": 1.0936,
+            "bidHigh": 1.0953,
+            "bidLow": 1.0934,
+            "bidOpen": 1.0946,
+            "date": "2024-03-08T18:32:25.000Z",
+            "volume": 6205
+        },
+        {
+            "bidClose": 1.0939,
+            "bidHigh": 1.0943,
+            "bidLow": 1.0924,
+            "bidOpen": 1.0936,
+            "date": "2024-03-09T18:32:25.000Z",
+            "volume": 10526
+        },
+        {
+            "bidClose": 1.0947,
+            "bidHigh": 1.0951,
+            "bidLow": 1.0935,
+            "bidOpen": 1.0939,
+            "date": "2024-03-10T18:32:25.000Z",
+            "volume": 279
+        },
+        {
+            "bidClose": 1.0957,
+            "bidHigh": 1.0956,
+            "bidLow": 1.0938,
+            "bidOpen": 1.0947,
+            "date": "2024-03-11T18:32:25.000Z",
+            "volume": 5894
+        },
+        {
+            "bidClose": 1.0955,
+            "bidHigh": 1.097,
+            "bidLow": 1.0944,
+            "bidOpen": 1.0957,
+            "date": "2024-03-12T18:32:25.000Z",
+            "volume": 8893
+        },
+        {
+            "bidClose": 1.0945,
+            "bidHigh": 1.0967,
+            "bidLow": 1.0947,
+            "bidOpen": 1.0955,
+            "date": "2024-03-13T18:32:25.000Z",
+            "volume": 1538
+        },
+        {
+            "bidClose": 1.0934,
+            "bidHigh": 1.0952,
+            "bidLow": 1.0939,
+            "bidOpen": 1.0945,
+            "date": "2024-03-14T18:32:25.000Z",
+            "volume": 744
+        },
+        {
+            "bidClose": 1.0933,
+            "bidHigh": 1.0936,
+            "bidLow": 1.093,
+            "bidOpen": 1.0934,
+            "date": "2024-03-15T18:32:25.000Z",
+            "volume": 16747
+        },
+        {
+            "bidClose": 1.0922,
+            "bidHigh": 1.0935,
+            "bidLow": 1.0927,
+            "bidOpen": 1.0933,
+            "date": "2024-03-16T18:32:25.000Z",
+            "volume": 7364
+        },
+        {
+            "bidClose": 1.093,
+            "bidHigh": 1.0924,
+            "bidLow": 1.0915,
+            "bidOpen": 1.0922,
+            "date": "2024-03-17T18:32:25.000Z",
+            "volume": 1038
+        },
+        {
+            "bidClose": 1.0937,
+            "bidHigh": 1.094,
+            "bidLow": 1.0929,
+            "bidOpen": 1.093,
+            "date": "2024-03-18T18:32:25.000Z",
+            "volume": 6123
+        },
+        {
+            "bidClose": 1.093,
+            "bidHigh": 1.0948,
+            "bidLow": 1.0927,
+            "bidOpen": 1.0937,
+            "date": "2024-03-19T18:32:25.000Z",
+            "volume": 7894
+        }
+    ]
+}
